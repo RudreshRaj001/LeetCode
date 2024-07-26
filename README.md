@@ -57,6 +57,7 @@
 | [0069-sqrtx](https://github.com/RudreshRaj001/LeetCode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/RudreshRaj001/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RudreshRaj001/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/RudreshRaj001/LeetCode/tree/master/0278-first-bad-version) |
 ## Sorting
 |  |
 | ------- |
@@ -66,4 +67,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/RudreshRaj001/LeetCode/tree/master/0204-count-primes) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/RudreshRaj001/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
