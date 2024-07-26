@@ -32,6 +32,7 @@
 | [0069-sqrtx](https://github.com/RudreshRaj001/LeetCode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/RudreshRaj001/LeetCode/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/RudreshRaj001/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/RudreshRaj001/LeetCode/tree/master/0441-arranging-coins) |
 | [1372-check-if-it-is-a-good-array](https://github.com/RudreshRaj001/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 ## Matrix
 |  |
@@ -63,6 +64,7 @@
 | [0367-valid-perfect-square](https://github.com/RudreshRaj001/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/RudreshRaj001/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/RudreshRaj001/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/RudreshRaj001/LeetCode/tree/master/0441-arranging-coins) |
 ## Sorting
 |  |
 | ------- |
