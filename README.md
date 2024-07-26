@@ -25,6 +25,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RudreshRaj001/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RudreshRaj001/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1505-create-target-array-in-the-given-order](https://github.com/RudreshRaj001/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1791-richest-customer-wealth](https://github.com/RudreshRaj001/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -115,6 +116,7 @@
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/RudreshRaj001/LeetCode/tree/master/0861-flipping-an-image) |
+| [1505-create-target-array-in-the-given-order](https://github.com/RudreshRaj001/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 ## Counting
 |  |
 | ------- |
