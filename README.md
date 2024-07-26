@@ -37,6 +37,7 @@
 | [1833-find-the-highest-altitude](https://github.com/RudreshRaj001/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/RudreshRaj001/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [2048-build-array-from-permutation](https://github.com/RudreshRaj001/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/RudreshRaj001/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -138,6 +139,7 @@
 | [0861-flipping-an-image](https://github.com/RudreshRaj001/LeetCode/tree/master/0861-flipping-an-image) |
 | [1505-create-target-array-in-the-given-order](https://github.com/RudreshRaj001/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/RudreshRaj001/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/RudreshRaj001/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Counting
 |  |
 | ------- |
