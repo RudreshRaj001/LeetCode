@@ -13,6 +13,7 @@
 | [0066-plus-one](https://github.com/RudreshRaj001/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/RudreshRaj001/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RudreshRaj001/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0162-find-peak-element](https://github.com/RudreshRaj001/LeetCode/tree/master/0162-find-peak-element) |
 | [1372-check-if-it-is-a-good-array](https://github.com/RudreshRaj001/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RudreshRaj001/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/RudreshRaj001/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -49,6 +50,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RudreshRaj001/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RudreshRaj001/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/RudreshRaj001/LeetCode/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/RudreshRaj001/LeetCode/tree/master/0162-find-peak-element) |
 ## Sorting
 |  |
 | ------- |
