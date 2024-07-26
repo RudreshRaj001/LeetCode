@@ -12,6 +12,7 @@
 | [0035-search-insert-position](https://github.com/RudreshRaj001/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/RudreshRaj001/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/RudreshRaj001/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/RudreshRaj001/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1372-check-if-it-is-a-good-array](https://github.com/RudreshRaj001/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RudreshRaj001/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/RudreshRaj001/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -40,6 +41,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RudreshRaj001/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RudreshRaj001/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/RudreshRaj001/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/RudreshRaj001/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -51,4 +53,5 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/RudreshRaj001/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/RudreshRaj001/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
