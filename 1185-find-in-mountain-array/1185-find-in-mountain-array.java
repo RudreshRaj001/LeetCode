@@ -2,8 +2,8 @@
  * // This is MountainArray's API interface.
  * // You should not implement it, or speculate about its implementation
  * interface MountainArray {
- * public int get(int index);
- * public int length();
+ * public int get(int index) {}
+ * public int length() {}
  * }
  */
 
@@ -25,7 +25,7 @@ class Solution {
             int mid = start + ((end - start) / 2);
             if (mountainArr.get(mid) < mountainArr.get(mid + 1)) {
                 start = mid + 1;
-            } else {
+            } else{
                 end = mid;
             }
         }
@@ -43,7 +43,7 @@ class Solution {
             if (isAsc) {
                 if (target < midValue) {
                     end = mid - 1;
-                } else {
+                } else{
                     start = mid + 1;
                 }
             } else {
