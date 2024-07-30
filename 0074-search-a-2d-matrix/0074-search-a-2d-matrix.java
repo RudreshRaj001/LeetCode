@@ -2,17 +2,19 @@ class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {
         int rows = matrix.length;
         int columns = matrix[0].length;
-        int right = 0;
-        int left = rows * columns - 1;
-        while(right <= left){
-            int mid = left + (right - left) / 2;
+        int left = 0;
+        int right = rows * columns - 1;
+        while(left <= right){
+            int mid = right + (left - right) / 2;
             int mid_val = matrix[mid / columns][mid % columns];
+            // mid / n -> row index of value 
+            // mid % n -> col index of value 
             if(mid_val == target){
                 return true;
             }else if(mid_val < target){
-                right = mid + 1;
+                left = mid + 1;
             }else{
-                left = mid - 1;
+                right = mid - 1;
             }
         }
         return false;
