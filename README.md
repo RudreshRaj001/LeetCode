@@ -22,6 +22,7 @@
 | [0792-binary-search](https://github.com/RudreshRaj001/LeetCode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/RudreshRaj001/LeetCode/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/RudreshRaj001/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0898-transpose-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/0898-transpose-matrix) |
 | [1185-find-in-mountain-array](https://github.com/RudreshRaj001/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1372-check-if-it-is-a-good-array](https://github.com/RudreshRaj001/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RudreshRaj001/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -64,6 +65,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0861-flipping-an-image](https://github.com/RudreshRaj001/LeetCode/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/RudreshRaj001/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/RudreshRaj001/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -143,6 +145,7 @@
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/RudreshRaj001/LeetCode/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/RudreshRaj001/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/RudreshRaj001/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/RudreshRaj001/LeetCode/tree/master/2058-concatenation-of-array) |
