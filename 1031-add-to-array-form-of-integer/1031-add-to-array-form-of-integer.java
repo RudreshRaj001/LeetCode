@@ -1,6 +1,7 @@
 class Solution {
     public List<Integer> addToArrayForm(int[] num, int k) {
-        List<Integer> list = new ArrayList<Integer>(); 
+        // List<Integer> list = new ArrayList<Integer>(); 
+       LinkedList<Integer> list = new LinkedList(); 
         int length = num.length;
         for(int i = length - 1; i >= 0; i--){
             list.add(0, (num[i]+k)%10);
