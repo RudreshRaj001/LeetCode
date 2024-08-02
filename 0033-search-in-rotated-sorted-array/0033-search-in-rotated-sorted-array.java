@@ -22,12 +22,15 @@ class Solution {
     while (start <= end) {
       int mid = start + (end - start)/2;
       if (mid < end && arr[mid] > arr[mid + 1]) {
+        // mid < end because mid + 1 might give out of bound
         return mid;
       }
       if(mid > start && arr[mid] < arr[mid - 1]){
+        // mid > start because mid - 1 might give out of bound
         return mid - 1;
       } 
-      if (arr[mid] < arr[start]){
+      if (arr[mid] <= arr[start]){ 
+        // As we have distinct values we need not worry about = case
         end = mid - 1;
       } else {
         start = mid + 1;
