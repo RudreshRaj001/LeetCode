@@ -5,14 +5,11 @@ class Solution {
         boolean[] composites = new boolean[n];
 
         int limit = (int)Math.sqrt(n);
-
-        // for (int i = 2; i < n; i++) {
-        //     composites[i] = true;
-        // }
         
         // Array of composites -> true represents composite false represents prime
+        // this is Sieve of Eratosthenes. 
         for (int i = 2; i <= limit; i++) {
-            if (composites[i] == false) {
+            if (!composites[i]) {
                 for (int j = i * i; j < n; j += i) {
                     composites[j] = true;
                 }
@@ -21,7 +18,7 @@ class Solution {
         
         int count = 0;
         for (int i = 2; i < n; i++) {
-            if (composites[i] == false) count++;
+            if (!composites[i]) count++;
         }
         
         return count;
