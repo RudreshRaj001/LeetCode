@@ -4,11 +4,9 @@ class Solution {
 
         boolean[] composites = new boolean[n];
 
-        int limit = (int)Math.sqrt(n);
-        
         // Array of composites -> true represents composite false represents prime
         // this is Sieve of Eratosthenes. 
-        for (int i = 2; i <= limit; i++) {
+        for (int i = 2; i*i <= n; i++) {
             if (!composites[i]) {
                 for (int j = i * i; j < n; j += i) {
                     composites[j] = true;
