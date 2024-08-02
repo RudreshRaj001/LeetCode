@@ -8,9 +8,9 @@ class Solution {
             if(total == target){
                 return new int[]{left + 1, right + 1};
             }else if(total > target){
-                right--;
+                right--; // this decreases the value of total
             }else{
-                left++;
+                left++; // this Increases the value of total
             }
         }
 
