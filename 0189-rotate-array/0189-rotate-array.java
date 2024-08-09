@@ -3,9 +3,9 @@ class Solution {
         int n = nums.length;
         k = k % n; //In case k is greater than n
 
-        reverse(nums, 0, n - 1);
-        reverse(nums, 0, k - 1);
-        reverse(nums, k, n - 1);
+        reverse(nums, 0, n - 1); // reverse entire array
+        reverse(nums, 0, k - 1); // reverse firest k elements
+        reverse(nums, k, n - 1); // reverse remaining elements
         
     }
     private void reverse(int[] nums,int start, int end){
