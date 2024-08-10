@@ -8,6 +8,6 @@ class Solution {
                 return nums[i];
             }
         }
-        return -1;
+        return -1; // this never happens
     }
 }
