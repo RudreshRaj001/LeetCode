@@ -11,8 +11,7 @@ class Solution {
                 i++;
             }
         }
-        // [3,4,-1,1] 
-        // [3,4,-1,1] 
+
         for (int j = 0; j < n; j++) {
             if (a[j] != j + 1) {
                 return j + 1;
