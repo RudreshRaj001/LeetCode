@@ -17,7 +17,9 @@ class Solution {
                 return j + 1;
             }
         }
-        return n + 1;
+        return n + 1; 
+        // if we have all elements from 1 till n in array in index 0 till n - 1 
+        // the first missing positive element n + 1
     }
 
     static void swap(int[] a, int i, int j) {
