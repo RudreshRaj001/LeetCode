@@ -19,14 +19,17 @@ class Solution {
                 mid--;
             }
 
-            if(nums[mid] == nums[mid + 1]){
+            // Compare mid with its pair
+            if (nums[mid] == nums[mid + 1]) {
+                // If equal, single element is after mid
                 start = mid + 2;
-            }else{
+            } else {
+                // If not equal, single element is before or at mid
                 end = mid;
             }
-            
-
         }
+
+        // 'start' should now point to the single element
         return nums[start];
     }
 }
