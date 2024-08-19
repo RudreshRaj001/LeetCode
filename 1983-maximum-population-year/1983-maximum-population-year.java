@@ -11,7 +11,7 @@ class Solution {
         int maxYear = 1950;
 
         // checking with Prefix Sum
-        for(int i = 1; i < year.length; i++){
+        for(int i = 1; i < 101; i++){
             year[i] += year[i - 1]; // Prefix Sum
             if(year[i] > maxNum){
                 maxNum = year[i];
