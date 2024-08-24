@@ -6,7 +6,7 @@ class Solution {
             int mid = start + (end - start) / 2;
             if (mid < end && arr[mid] > arr[mid + 1]) {
                 // mid < end because mid + 1 might give out of bound
-                return arr[(mid + 1)];
+                return arr[mid + 1];
             }
             if (mid > start && arr[mid] < arr[mid - 1]) {
                 // mid > start because mid - 1 might give out of bound
