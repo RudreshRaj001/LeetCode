@@ -33,6 +33,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/RudreshRaj001/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RudreshRaj001/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RudreshRaj001/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0566-reshape-the-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0645-set-mismatch](https://github.com/RudreshRaj001/LeetCode/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/RudreshRaj001/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/RudreshRaj001/LeetCode/tree/master/0792-binary-search) |
@@ -102,6 +103,7 @@
 | [0054-spiral-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0566-reshape-the-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/RudreshRaj001/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -212,6 +214,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0566-reshape-the-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/RudreshRaj001/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
