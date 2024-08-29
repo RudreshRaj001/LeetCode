@@ -1,6 +1,7 @@
 class Solution {
     public int reachNumber(int target) {
-        if(target < 0) target *= -1;
+        // if(target < 0) target *= -1;
+        target = Math.abs(target);
         int n = 1;
         int sum = 0;
 
