@@ -42,6 +42,7 @@
 | [0861-flipping-an-image](https://github.com/RudreshRaj001/LeetCode/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/RudreshRaj001/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/0898-transpose-matrix) |
+| [0907-koko-eating-bananas](https://github.com/RudreshRaj001/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1031-add-to-array-form-of-integer](https://github.com/RudreshRaj001/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1185-find-in-mountain-array](https://github.com/RudreshRaj001/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/RudreshRaj001/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -163,6 +164,7 @@
 | [0755-reach-a-number](https://github.com/RudreshRaj001/LeetCode/tree/master/0755-reach-a-number) |
 | [0792-binary-search](https://github.com/RudreshRaj001/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/RudreshRaj001/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0907-koko-eating-bananas](https://github.com/RudreshRaj001/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1185-find-in-mountain-array](https://github.com/RudreshRaj001/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RudreshRaj001/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
