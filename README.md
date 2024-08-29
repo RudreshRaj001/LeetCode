@@ -95,6 +95,7 @@
 | [0268-missing-number](https://github.com/RudreshRaj001/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/RudreshRaj001/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/RudreshRaj001/LeetCode/tree/master/0441-arranging-coins) |
+| [0755-reach-a-number](https://github.com/RudreshRaj001/LeetCode/tree/master/0755-reach-a-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/RudreshRaj001/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/RudreshRaj001/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1372-check-if-it-is-a-good-array](https://github.com/RudreshRaj001/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
@@ -159,6 +160,7 @@
 | [0441-arranging-coins](https://github.com/RudreshRaj001/LeetCode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RudreshRaj001/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/RudreshRaj001/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0755-reach-a-number](https://github.com/RudreshRaj001/LeetCode/tree/master/0755-reach-a-number) |
 | [0792-binary-search](https://github.com/RudreshRaj001/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/RudreshRaj001/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/RudreshRaj001/LeetCode/tree/master/1185-find-in-mountain-array) |
