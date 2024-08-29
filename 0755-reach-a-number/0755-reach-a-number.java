@@ -5,18 +5,18 @@ class Solution {
         int n = 1;
         int sum = 0;
 
-        while(sum < target){
+        while (sum < target) {
             sum += n;
             n++;
         }
-        if((sum - target) % 2 == 0){
-            return n - 1;
-        }else{
-            while((sum - target) % 2 != 0){
-                sum += n;
-                n++;
-            }
-            return n - 1;
+        // if((sum - target) % 2 == 0){
+        // return n - 1;
+        // }else{
+        while ((sum - target) % 2 != 0) {
+            sum += n;
+            n++;
         }
+        return n - 1;
+        // }
     }
 }
