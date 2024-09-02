@@ -1,7 +1,6 @@
 class Solution {
     public String reverseWords(String s) {
         StringBuilder ans = new StringBuilder();
-        // s = s.strip();
         int p = s.length() - 1;
 
         while(p >= 0){
