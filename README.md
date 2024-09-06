@@ -112,6 +112,7 @@
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/RudreshRaj001/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/RudreshRaj001/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1610-xor-operation-in-an-array](https://github.com/RudreshRaj001/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/RudreshRaj001/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Matrix
 |  |
@@ -243,6 +244,7 @@
 | [0287-find-the-duplicate-number](https://github.com/RudreshRaj001/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/RudreshRaj001/LeetCode/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/RudreshRaj001/LeetCode/tree/master/0861-flipping-an-image) |
+| [1610-xor-operation-in-an-array](https://github.com/RudreshRaj001/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 ## Simulation
 |  |
 | ------- |
