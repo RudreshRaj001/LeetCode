@@ -7,7 +7,7 @@ class Solution {
             for (int j = 0; j < n; j++) {
                 cnt += (nums[j] >> i) & 1;
             }
-            if(cnt % 3 == 1) ans = ans | (1<<i);
+            if(cnt % 3 == 1) ans = ans | (1<<i); // sets the ith bit
         }
         return ans;
     }
