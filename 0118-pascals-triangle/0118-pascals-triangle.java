@@ -13,7 +13,7 @@ class Solution {
                 row.add(prevRow.get(j - 1) + prevRow.get(j));
             }
 
-            row.add(1);
+            row.add(1); // end the row with 1
             result.add(row);
         }
 
