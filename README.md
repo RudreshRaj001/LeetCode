@@ -24,6 +24,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RudreshRaj001/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/RudreshRaj001/LeetCode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RudreshRaj001/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RudreshRaj001/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RudreshRaj001/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -243,6 +244,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/RudreshRaj001/LeetCode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/RudreshRaj001/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RudreshRaj001/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/RudreshRaj001/LeetCode/tree/master/0645-set-mismatch) |
