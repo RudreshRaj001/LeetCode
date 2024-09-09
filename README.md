@@ -248,6 +248,7 @@
 | ------- |
 | [0136-single-number](https://github.com/RudreshRaj001/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/RudreshRaj001/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/RudreshRaj001/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RudreshRaj001/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/RudreshRaj001/LeetCode/tree/master/0645-set-mismatch) |
@@ -296,4 +297,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/RudreshRaj001/LeetCode/tree/master/0050-powx-n) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/RudreshRaj001/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
