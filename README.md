@@ -100,6 +100,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/RudreshRaj001/LeetCode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/RudreshRaj001/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/RudreshRaj001/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/RudreshRaj001/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/RudreshRaj001/LeetCode/tree/master/0189-rotate-array) |
@@ -291,4 +292,8 @@
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RudreshRaj001/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/RudreshRaj001/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
