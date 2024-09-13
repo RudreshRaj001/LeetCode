@@ -2,7 +2,7 @@ public class Solution {
     
     public int reverseBits(int num) {
 
-        // Hint: int is 32 bit (Using Divide and Conquer)
+        // Hint: int is 32 bit (Use Divide and Conquer)
         
         num = ((num & 0xffff0000) >>> 16) | ((num & 0x0000ffff) << 16);
         num = ((num & 0xff00ff00) >>> 8) | ((num & 0x00ff00ff) << 8);
