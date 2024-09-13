@@ -11,7 +11,7 @@ public class Solution {
         num = ((num & 0xaaaaaaaa) >>> 1) | ((num & 0x55555555) << 1);
 
 
-        /* HexaDecimal Number Maska
+        /* HexaDecimal Number Mask
            0xffff0000 -> 1111 1111 1111 1111 0000 0000 0000 0000
            0x0000ffff -> 0000 0000 0000 0000 1111 1111 1111 1111
            0xff00ff00 -> 1111 1111 0000 0000 1111 1111 0000 0000
