@@ -1,4 +1,5 @@
 class Solution {
+    // this could also be done by bit manipulation
     public int numberOfSteps(int num) {
         int steps = 0;
         return helper(num, steps);
