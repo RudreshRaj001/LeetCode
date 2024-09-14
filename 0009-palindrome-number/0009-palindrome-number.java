@@ -1,19 +1,23 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        if(x<0) return false;
-        return x == rev(x);
-    }
+        int rev=0;
+        int original=x;
 
-    static int rev(int n) {
-        int digits = (int) (Math.log10(n)) + 1;
-        return helper(n, digits);
-    }
-
-    static int helper(int n, int digits) {
-        if (n % 10 == n) {
-            return n;
+        if (x < 0) return false;
+        while(x > 0)   
+        {  
+            int lastdigit = x % 10;  
+            rev = rev * 10 + lastdigit;  
+            x = x/10;  
+        }  
+        if(rev==original){
+            return true;
         }
-        int rem = n % 10;
-        return rem * (int) (Math.pow(10, digits - 1)) + helper(n / 10, digits - 1);
+        else{
+            return false;
+        }
+
     }
+        
+
 }
