@@ -120,6 +120,7 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RudreshRaj001/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/RudreshRaj001/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/RudreshRaj001/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [3567-convert-date-to-binary](https://github.com/RudreshRaj001/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Matrix
 |  |
 | ------- |
@@ -291,6 +292,7 @@
 | [1899-count-items-matching-a-rule](https://github.com/RudreshRaj001/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/RudreshRaj001/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/RudreshRaj001/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+| [3567-convert-date-to-binary](https://github.com/RudreshRaj001/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Sliding Window
 |  |
 | ------- |
