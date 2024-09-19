@@ -169,6 +169,7 @@
 | [0941-sort-array-by-parity](https://github.com/RudreshRaj001/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RudreshRaj001/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/RudreshRaj001/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/RudreshRaj001/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -248,6 +249,7 @@
 | [0605-can-place-flowers](https://github.com/RudreshRaj001/LeetCode/tree/master/0605-can-place-flowers) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/RudreshRaj001/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RudreshRaj001/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/RudreshRaj001/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -302,6 +304,7 @@
 | [1894-merge-strings-alternately](https://github.com/RudreshRaj001/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/RudreshRaj001/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/RudreshRaj001/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/RudreshRaj001/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/RudreshRaj001/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3567-convert-date-to-binary](https://github.com/RudreshRaj001/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Sliding Window
