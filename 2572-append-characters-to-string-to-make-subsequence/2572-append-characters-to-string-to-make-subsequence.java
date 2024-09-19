@@ -1,18 +1,18 @@
 class Solution {
-    public int appendCharacters(String t, String s) {
-        int lenS = s.length();
-        if(lenS == 0) return 0;
+    public int appendCharacters(String s, String t) {
         int lenT = t.length();
+        if(lenT == 0) return 0;
+        int lenS = s.length();
         int j = 0;
 
-        for (int i = 0; i < lenT; i++) {
-            if(t.charAt(i) == s.charAt(j)){
+        for (int i = 0; i < lenS; i++) {
+            if(s.charAt(i) == t.charAt(j)){
                 j++;
             }
-            if(j == lenS){
+            if(j == lenT){
                 return 0;
             }
         }
-        return lenS - j;
+        return lenT - j;
     }
 }
