@@ -17,6 +17,7 @@ class Solution {
                 return mid - 1;
             }
 
+            // Duplicates
             if (arr[mid] == arr[start] && arr[mid] == arr[end]) {
                 if (start < end && arr[start] > arr[start + 1]) {
                     return start;
