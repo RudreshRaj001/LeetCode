@@ -10,9 +10,6 @@ class Solution {
             if(countArray[nums1[i]] == 0){
                 countArray[nums1[i]]++;
             } 
-            // if(countArray[nums1[i]] == 2){
-            //     resList.add(nums1[i]);
-            // }
         }
         for(int i = 0; i < m; i++){
             if(countArray[nums2[i]] >= 1){
