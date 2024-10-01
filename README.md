@@ -117,6 +117,7 @@
 | [0367-valid-perfect-square](https://github.com/RudreshRaj001/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/RudreshRaj001/LeetCode/tree/master/0441-arranging-coins) |
 | [0755-reach-a-number](https://github.com/RudreshRaj001/LeetCode/tree/master/0755-reach-a-number) |
+| [1013-fibonacci-number](https://github.com/RudreshRaj001/LeetCode/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/RudreshRaj001/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/RudreshRaj001/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/RudreshRaj001/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -248,6 +249,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/RudreshRaj001/LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/RudreshRaj001/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1013-fibonacci-number](https://github.com/RudreshRaj001/LeetCode/tree/master/1013-fibonacci-number) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/RudreshRaj001/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 ## Greedy
 |  |
@@ -333,6 +335,7 @@
 | [0231-power-of-two](https://github.com/RudreshRaj001/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/RudreshRaj001/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RudreshRaj001/LeetCode/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/RudreshRaj001/LeetCode/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -342,4 +345,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/RudreshRaj001/LeetCode/tree/master/0274-h-index) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/RudreshRaj001/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
