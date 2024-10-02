@@ -81,6 +81,7 @@
 | [1833-find-the-highest-altitude](https://github.com/RudreshRaj001/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/RudreshRaj001/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1983-maximum-population-year](https://github.com/RudreshRaj001/LeetCode/tree/master/1983-maximum-population-year) |
+| [2047-find-a-peak-element-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/RudreshRaj001/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/RudreshRaj001/LeetCode/tree/master/2058-concatenation-of-array) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/RudreshRaj001/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
@@ -145,6 +146,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/RudreshRaj001/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/RudreshRaj001/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [2047-find-a-peak-element-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -210,6 +212,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/RudreshRaj001/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/RudreshRaj001/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2047-find-a-peak-element-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 ## Sorting
 |  |
 | ------- |
