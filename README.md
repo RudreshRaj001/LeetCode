@@ -79,6 +79,7 @@
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/RudreshRaj001/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1791-richest-customer-wealth](https://github.com/RudreshRaj001/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/RudreshRaj001/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1839-decode-xored-array](https://github.com/RudreshRaj001/LeetCode/tree/master/1839-decode-xored-array) |
 | [1899-count-items-matching-a-rule](https://github.com/RudreshRaj001/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1983-maximum-population-year](https://github.com/RudreshRaj001/LeetCode/tree/master/1983-maximum-population-year) |
 | [2047-find-a-peak-element-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/2047-find-a-peak-element-ii) |
@@ -286,6 +287,7 @@
 | [0861-flipping-an-image](https://github.com/RudreshRaj001/LeetCode/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RudreshRaj001/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/RudreshRaj001/LeetCode/tree/master/1610-xor-operation-in-an-array) |
+| [1839-decode-xored-array](https://github.com/RudreshRaj001/LeetCode/tree/master/1839-decode-xored-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/RudreshRaj001/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Simulation
 |  |
