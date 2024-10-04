@@ -31,6 +31,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/RudreshRaj001/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RudreshRaj001/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/RudreshRaj001/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RudreshRaj001/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/RudreshRaj001/LeetCode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/RudreshRaj001/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -93,6 +94,7 @@
 | [0001-two-sum](https://github.com/RudreshRaj001/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/RudreshRaj001/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/RudreshRaj001/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/RudreshRaj001/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/RudreshRaj001/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RudreshRaj001/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -222,6 +224,7 @@
 | [0018-4sum](https://github.com/RudreshRaj001/LeetCode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/RudreshRaj001/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RudreshRaj001/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/RudreshRaj001/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/RudreshRaj001/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/RudreshRaj001/LeetCode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/RudreshRaj001/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -304,6 +307,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/RudreshRaj001/LeetCode/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RudreshRaj001/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/RudreshRaj001/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1983-maximum-population-year](https://github.com/RudreshRaj001/LeetCode/tree/master/1983-maximum-population-year) |
@@ -344,6 +348,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/RudreshRaj001/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/RudreshRaj001/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/RudreshRaj001/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Counting Sort
