@@ -88,6 +88,7 @@
 | [2058-concatenation-of-array](https://github.com/RudreshRaj001/LeetCode/tree/master/2058-concatenation-of-array) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/RudreshRaj001/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/RudreshRaj001/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/RudreshRaj001/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -135,6 +136,7 @@
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/RudreshRaj001/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3567-convert-date-to-binary](https://github.com/RudreshRaj001/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3568-find-the-key-of-the-numbers](https://github.com/RudreshRaj001/LeetCode/tree/master/3568-find-the-key-of-the-numbers) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/RudreshRaj001/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Matrix
 |  |
 | ------- |
