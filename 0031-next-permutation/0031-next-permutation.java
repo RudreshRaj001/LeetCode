@@ -22,7 +22,6 @@ class Solution {
             }
             rev(nums, ind + 1, n - 1);
         }
-
     }
 
     public void rev(int[] arr, int startIndex, int endIndex) {
