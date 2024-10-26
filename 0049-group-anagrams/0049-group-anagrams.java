@@ -6,7 +6,7 @@ class Solution {
             char[] chars = word.toCharArray();
             Arrays.sort(chars);
             String newWord = new String(chars); 
-            // newWord Acts as a common key for all the anagrams
+            // newWord acts as a common key for all the anagrams
 
             if(!map.containsKey(newWord)){
                 map.put(newWord, new ArrayList<>());
