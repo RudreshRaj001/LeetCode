@@ -23,7 +23,8 @@ class Solution {
                 count2--;
             }
         }
-        
+
+        // Verifying actual Count
         count1 = 0;
         count2 = 0;
         for (int num : nums) {
