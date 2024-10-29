@@ -17,7 +17,6 @@ public class Solution {
             hare = hare.next.next;
             tortoise = tortoise.next;
             if(hare == tortoise){
-                // int ans = 0;
                 ListNode start = head;
                 while(hare != start){
                     hare = hare.next;
@@ -26,9 +25,6 @@ public class Solution {
                 return start;
             }
         }
-
-        
-
         return null;
     }
 }
