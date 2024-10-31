@@ -108,6 +108,7 @@
 | [0205-isomorphic-strings](https://github.com/RudreshRaj001/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/RudreshRaj001/LeetCode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/RudreshRaj001/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/RudreshRaj001/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/RudreshRaj001/LeetCode/tree/master/0383-ransom-note) |
@@ -347,6 +348,7 @@
 | [0125-valid-palindrome](https://github.com/RudreshRaj001/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/RudreshRaj001/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/RudreshRaj001/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/RudreshRaj001/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/RudreshRaj001/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RudreshRaj001/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/RudreshRaj001/LeetCode/tree/master/0383-ransom-note) |
