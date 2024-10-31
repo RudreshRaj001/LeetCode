@@ -18,6 +18,7 @@
 | [0048-rotate-image](https://github.com/RudreshRaj001/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/RudreshRaj001/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/RudreshRaj001/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RudreshRaj001/LeetCode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/RudreshRaj001/LeetCode/tree/master/0066-plus-one) |
@@ -280,6 +281,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/RudreshRaj001/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/RudreshRaj001/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RudreshRaj001/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -290,6 +292,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/RudreshRaj001/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/RudreshRaj001/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/RudreshRaj001/LeetCode/tree/master/0605-can-place-flowers) |
