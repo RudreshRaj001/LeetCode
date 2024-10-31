@@ -1,11 +1,11 @@
 class Solution {
     public boolean wordPattern(String pattern, String s) {
-        HashMap<Character, String> map = new HashMap<>();
-        HashSet<String> set = new HashSet<>();
         String[] words = s.split("\\s+");
         int n = words.length;
         int p = pattern.length();
         if(p != n) return false;
+        HashMap<Character, String> map = new HashMap<>();
+        HashSet<String> set = new HashSet<>();
 
         for(int i = 0; i < n; i++){
             char tempS = pattern.charAt(i);
