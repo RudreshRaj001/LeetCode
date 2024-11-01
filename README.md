@@ -129,6 +129,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RudreshRaj001/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/RudreshRaj001/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/RudreshRaj001/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/RudreshRaj001/LeetCode/tree/master/0050-powx-n) |
@@ -388,6 +389,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RudreshRaj001/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/RudreshRaj001/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/RudreshRaj001/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/RudreshRaj001/LeetCode/tree/master/0326-power-of-three) |
@@ -410,6 +412,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RudreshRaj001/LeetCode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/RudreshRaj001/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RudreshRaj001/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
