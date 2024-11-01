@@ -390,6 +390,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RudreshRaj001/LeetCode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/RudreshRaj001/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/RudreshRaj001/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/RudreshRaj001/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/RudreshRaj001/LeetCode/tree/master/0326-power-of-three) |
@@ -413,6 +414,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RudreshRaj001/LeetCode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/RudreshRaj001/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/RudreshRaj001/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RudreshRaj001/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
