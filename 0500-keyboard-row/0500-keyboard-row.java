@@ -34,7 +34,7 @@ class Solution {
             boolean status = false;
 
             if (set1.contains(temp.charAt(0))) {
-                for (int j = 0; j < temp.length(); j++) {
+                for (int j = 1; j < temp.length(); j++) {
 
                     if (!set1.contains(temp.charAt(j))) {
                         status = true;
@@ -42,7 +42,7 @@ class Solution {
                     }
                 }
             } else if (set2.contains(temp.charAt(0))) {
-                for (int j = 0; j < temp.length(); j++) {
+                for (int j = 1; j < temp.length(); j++) {
 
                     if (!set2.contains(temp.charAt(j))) {
                         status = true;
@@ -50,8 +50,7 @@ class Solution {
                     }
                 }
             } else {
-                for (int j = 0; j < temp.length(); j++) {
-
+                for (int j = 1; j < temp.length(); j++) {
                     if (!set3.contains(temp.charAt(j))) {
                         status = true;
                         break;
