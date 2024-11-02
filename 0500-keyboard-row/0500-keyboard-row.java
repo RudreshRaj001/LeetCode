@@ -40,7 +40,6 @@ class Solution {
                         status = true;
                         break;
                     }
-
                 }
             } else if (set2.contains(temp.charAt(0))) {
                 for (int j = 0; j < temp.length(); j++) {
@@ -49,7 +48,6 @@ class Solution {
                         status = true;
                         break;
                     }
-
                 }
             } else {
                 for (int j = 0; j < temp.length(); j++) {
@@ -58,7 +56,6 @@ class Solution {
                         status = true;
                         break;
                     }
-
                 }
             }
             if (!status) {
