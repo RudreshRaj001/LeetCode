@@ -6,11 +6,9 @@ class Solution {
         int tlen =  t.length();
         for(int i = 0; i < tlen; i++){
             if(i < tlen - 1){
-                char temps = s.charAt(i);
-                sSum += (int)temps;
+                sSum += (int)(s.charAt(i));
             }
-            char tempt = t.charAt(i);
-            tSum += (int)tempt;
+            tSum += (int)(t.charAt(i));
         }
         return (char)(tSum - sSum);
     }
