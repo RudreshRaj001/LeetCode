@@ -1,17 +1,17 @@
 class Solution {
     public int firstUniqChar(String s) {
         HashMap<Character, Integer> countMap = new HashMap<>();
-        for(int i = 0; i < s.length(); i++){
+        int n = s.length();
+        for(int i = 0; i < n; i++){
             char temp = s.charAt(i);
             if(countMap.containsKey(temp)){
-                int count = countMap.get(temp) + 1;
-                countMap.put(temp, count);
+                countMap.put(temp, countMap.get(temp) + 1);
             }else{
                 countMap.put(temp, 1);
             }
         }
         
-        for (int i = 0; i < s.length(); i++) {
+        for (int i = 0; i < n; i++) {
             if (countMap.get(s.charAt(i)) == 1) {
                 return i;
             }
