@@ -35,7 +35,6 @@ class Solution {
 
             if (set1.contains(temp.charAt(0))) {
                 for (int j = 1; j < temp.length(); j++) {
-
                     if (!set1.contains(temp.charAt(j))) {
                         status = true;
                         break;
@@ -43,7 +42,6 @@ class Solution {
                 }
             } else if (set2.contains(temp.charAt(0))) {
                 for (int j = 1; j < temp.length(); j++) {
-
                     if (!set2.contains(temp.charAt(j))) {
                         status = true;
                         break;
