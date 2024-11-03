@@ -390,6 +390,7 @@
 | [1899-count-items-matching-a-rule](https://github.com/RudreshRaj001/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/RudreshRaj001/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/RudreshRaj001/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [2580-circular-sentence](https://github.com/RudreshRaj001/LeetCode/tree/master/2580-circular-sentence) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/RudreshRaj001/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3567-convert-date-to-binary](https://github.com/RudreshRaj001/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Sliding Window
