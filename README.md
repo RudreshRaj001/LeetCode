@@ -391,6 +391,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/RudreshRaj001/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/RudreshRaj001/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2580-circular-sentence](https://github.com/RudreshRaj001/LeetCode/tree/master/2580-circular-sentence) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/RudreshRaj001/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/RudreshRaj001/LeetCode/tree/master/3451-string-compression-iii) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/RudreshRaj001/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3567-convert-date-to-binary](https://github.com/RudreshRaj001/LeetCode/tree/master/3567-convert-date-to-binary) |
