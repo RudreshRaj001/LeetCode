@@ -96,6 +96,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/RudreshRaj001/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/RudreshRaj001/LeetCode/tree/master/2058-concatenation-of-array) |
+| [3291-find-if-array-can-be-sorted](https://github.com/RudreshRaj001/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/RudreshRaj001/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/RudreshRaj001/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/RudreshRaj001/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -280,6 +281,7 @@
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/RudreshRaj001/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/RudreshRaj001/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/RudreshRaj001/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [3291-find-if-array-can-be-sorted](https://github.com/RudreshRaj001/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Enumeration
 |  |
 | ------- |
@@ -339,6 +341,7 @@
 | [1610-xor-operation-in-an-array](https://github.com/RudreshRaj001/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1839-decode-xored-array](https://github.com/RudreshRaj001/LeetCode/tree/master/1839-decode-xored-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/RudreshRaj001/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3291-find-if-array-can-be-sorted](https://github.com/RudreshRaj001/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Simulation
 |  |
 | ------- |
