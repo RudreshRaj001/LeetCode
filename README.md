@@ -99,6 +99,7 @@
 | [2058-concatenation-of-array](https://github.com/RudreshRaj001/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/RudreshRaj001/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/RudreshRaj001/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/RudreshRaj001/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/RudreshRaj001/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/RudreshRaj001/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -350,6 +351,7 @@
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/RudreshRaj001/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/RudreshRaj001/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/RudreshRaj001/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/RudreshRaj001/LeetCode/tree/master/3394-minimum-array-end) |
 ## Simulation
 |  |
@@ -412,6 +414,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/RudreshRaj001/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Heap (Priority Queue)
 |  |
