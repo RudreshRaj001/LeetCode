@@ -7,7 +7,7 @@ class Solution {
             long low = lower - nums[i];
             long up = upper - nums[i];
 
-            cnt += (long)(search(i + 1, n - 1, up + 1, nums) - search(i + 1, n - 1, low, nums));
+            cnt += (search(i + 1, n - 1, up + 1, nums) - search(i + 1, n - 1, low, nums));
         }
         
         return cnt;
