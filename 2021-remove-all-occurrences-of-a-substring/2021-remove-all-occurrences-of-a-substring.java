@@ -12,13 +12,13 @@ class Solution {
         // }
         // return ans;
 
-        // int partLen = part.length();
-        // return skipApple("", up, part, partLen);
-        if (!up.contains(part)) {
-            return up; // Base case: no more `part` in `up`
-        }
-        // Remove first occurrence of `part` and recurse
-        return removeOccurrences(up.replaceFirst(part, ""), part);
+        int partLen = part.length();
+        return skipApple("", up, part, partLen);
+        // if (!up.contains(part)) {
+        //     return up; // Base case: no more `part` in `up`
+        // }
+        // // Remove first occurrence of `part` and recurse
+        // return removeOccurrences(up.replaceFirst(part, ""), part);
     }
 
     static String skipApple(String unprocessed, String str, String part, int partLen) {
@@ -41,10 +41,10 @@ class Solution {
             }
             String Splitfr = unprocessed.substring(0, diff);// first part of the string;
             String SplitSc = unprocessed.substring(diff);
-            return Splitfr + skipApple("",SplitSc + str.substring(partLen),part,partLen);
+            return skipApple(Splitfr, SplitSc + str.substring(partLen),part,partLen);
         } else {
             unprocessed += ch;
-            return unprocessed + skipApple("",str.substring(1),part,partLen);
+            return skipApple(unprocessed ,str.substring(1),part,partLen);
         }
     }
 
