@@ -384,6 +384,7 @@
 | [0898-transpose-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/RudreshRaj001/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/RudreshRaj001/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/RudreshRaj001/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/RudreshRaj001/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Counting
@@ -425,6 +426,7 @@
 | [1894-merge-strings-alternately](https://github.com/RudreshRaj001/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/RudreshRaj001/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/RudreshRaj001/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/RudreshRaj001/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/RudreshRaj001/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2580-circular-sentence](https://github.com/RudreshRaj001/LeetCode/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/RudreshRaj001/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -491,6 +493,7 @@
 |  |
 | ------- |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/RudreshRaj001/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/RudreshRaj001/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
