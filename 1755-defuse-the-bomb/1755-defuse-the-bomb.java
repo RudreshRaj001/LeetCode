@@ -11,7 +11,7 @@ class Solution {
                 }
             }else{
                 for(int j = i - 1; j > i - 1 - Math.abs(k); j--){
-                    sum += code[(j + n) % n];
+                    sum += code[(j % n + n) % n];
                 }
             }
             res[i] = sum;
