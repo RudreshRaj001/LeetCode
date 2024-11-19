@@ -10,7 +10,7 @@ class Solution {
 
         for (int i = 0; i < n + Math.abs(k); i++) {
             sum += code[i % n];
-            int win = i - l + 1;
+            
             if (i - l + 1 > Math.abs(k)) {
                 sum -= code[l % n];
                 l = (l + 1) % n;
