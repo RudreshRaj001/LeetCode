@@ -103,6 +103,7 @@
 | [2058-concatenation-of-array](https://github.com/RudreshRaj001/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/RudreshRaj001/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RudreshRaj001/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/RudreshRaj001/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/RudreshRaj001/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RudreshRaj001/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/RudreshRaj001/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -201,6 +202,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/RudreshRaj001/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/RudreshRaj001/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2047-find-a-peak-element-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/RudreshRaj001/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Number Theory
 |  |
 | ------- |
@@ -395,6 +397,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RudreshRaj001/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/RudreshRaj001/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/RudreshRaj001/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/RudreshRaj001/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Counting
 |  |
 | ------- |
