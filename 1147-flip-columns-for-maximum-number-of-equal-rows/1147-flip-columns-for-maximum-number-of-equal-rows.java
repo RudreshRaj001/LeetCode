@@ -12,8 +12,9 @@ class Solution {
                     key.append(n);
                 }
             }
-            int oldValue = map.getOrDefault(key.toString(), 0);
-            map.put(key.toString(), oldValue + 1);
+            // int oldValue = map.getOrDefault(key.toString(), 0);
+            // map.put(key.toString(), oldValue + 1);
+            map.merge(key.toString(),1,(A, B)->A+B);
         }
         return Collections.max(map.values());
     }
