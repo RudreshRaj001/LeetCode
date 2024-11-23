@@ -3,6 +3,7 @@ class Solution {
         int l = box.length;
         int b = box[0].length;
 
+        int k = 0;
         for(char[] row : box){
             int j = b - 1;
             for(int i =  b - 1; i >= 0; i--){
@@ -14,6 +15,7 @@ class Solution {
                 }else if(row[i] == '*'){
                     j = i - 1;
                 }
+                k++;
             }
             while(j >= 0){
                 row[j] = '.';
