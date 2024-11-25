@@ -62,6 +62,7 @@
 | [0605-can-place-flowers](https://github.com/RudreshRaj001/LeetCode/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/RudreshRaj001/LeetCode/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/RudreshRaj001/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0787-sliding-puzzle](https://github.com/RudreshRaj001/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/RudreshRaj001/LeetCode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/RudreshRaj001/LeetCode/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/RudreshRaj001/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -201,6 +202,7 @@
 | [0073-set-matrix-zeroes](https://github.com/RudreshRaj001/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0787-sliding-puzzle](https://github.com/RudreshRaj001/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0861-flipping-an-image](https://github.com/RudreshRaj001/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/0898-transpose-matrix) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/RudreshRaj001/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -536,4 +538,8 @@
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/RudreshRaj001/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0787-sliding-puzzle](https://github.com/RudreshRaj001/LeetCode/tree/master/0787-sliding-puzzle) |
 <!---LeetCode Topics End-->
