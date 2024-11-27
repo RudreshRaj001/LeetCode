@@ -118,6 +118,7 @@
 | [3291-find-if-array-can-be-sorted](https://github.com/RudreshRaj001/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/RudreshRaj001/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/RudreshRaj001/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/RudreshRaj001/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/RudreshRaj001/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/RudreshRaj001/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -544,8 +545,10 @@
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/RudreshRaj001/LeetCode/tree/master/0787-sliding-puzzle) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/RudreshRaj001/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
 | ------- |
 | [3189-find-champion-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/3189-find-champion-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/RudreshRaj001/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 <!---LeetCode Topics End-->
