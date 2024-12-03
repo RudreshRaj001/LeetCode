@@ -1,17 +1,13 @@
 class Solution {
     public int findChampion(int[][] grid) {
-        int len = grid.length;
-        for (int i = 0; i < len; i++) {
-            boolean champ = true;
-            for (int j = 0; j < len; j++) {
-                if(i == j) continue;
-                if(grid[i][j] != 1){
-                    champ = false;
-                    break;
-                }
+        int n = grid.length;
+        int winner = 0;
+        for(int i = 0; i < n; i++){
+            if(winner == i) continue;
+            if(grid[winner][i] == 0){
+                winner = i;
             }
-            if(champ) return i;
         }
-        return -1;
+        return winner;
     }
 }
