@@ -5,11 +5,12 @@ class Solution {
         int n2 = str2.length();
         
         while(i < n1 && j < n2){
-
-            if(str1.charAt(i) == str2.charAt(j) || (char)(str1.charAt(i) + 1) == str2.charAt(j)){
+            int str01 = (int) str1.charAt(i);
+            int str02 = (int) str2.charAt(j);
+            if(str01 == str02 || str01 + 1 == str02){
                 j++;
             }
-            else if((char)(str1.charAt(i) + 1) == 123 && 'a' == str2.charAt(j) ){
+            else if((str01 + 1) == 123 && str02 == 97){
                 j++;
             }
             i++;
