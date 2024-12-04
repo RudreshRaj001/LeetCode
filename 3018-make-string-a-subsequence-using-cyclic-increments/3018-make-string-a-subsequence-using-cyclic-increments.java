@@ -13,10 +13,6 @@ class Solution {
             }
             i++;
         }
-
-        if(j==n2){
-            return true;
-        }
-        return false;
+        return j == n2;
     }
 }
