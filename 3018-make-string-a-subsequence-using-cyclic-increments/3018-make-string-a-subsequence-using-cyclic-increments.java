@@ -8,7 +8,7 @@ class Solution {
             if(str1.charAt(i)==str2.charAt(j) || (char)(str1.charAt(i)+1)==str2.charAt(j)){
                 j++;
             }
-            else if((char)(str1.charAt(i)+1)-'a'== 26 && 'a' == str2.charAt(j) ){
+            else if((char)(str1.charAt(i) + 1) - 'a'== 26 && 'a' == str2.charAt(j) ){
                 j++;
             }
             i++;
