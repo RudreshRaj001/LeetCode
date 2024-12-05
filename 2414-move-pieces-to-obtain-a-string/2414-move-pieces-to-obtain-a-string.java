@@ -4,7 +4,7 @@ class Solution {
         int j = 0;
         int n = start.length();
         while(i <= n && j <= n){
-            while(i < n && start.charAt(i) == '_') i++; // letter
+            while(i < n && start.charAt(i) == '_') i++; 
             while(j < n && target.charAt(j) == '_') j++;
 
             if(i == n || j == n) return i == n && j == n;
