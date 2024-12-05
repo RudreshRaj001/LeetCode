@@ -254,6 +254,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/RudreshRaj001/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/RudreshRaj001/LeetCode/tree/master/0392-is-subsequence) |
+| [0793-swap-adjacent-in-lr-string](https://github.com/RudreshRaj001/LeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0861-flipping-an-image](https://github.com/RudreshRaj001/LeetCode/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/RudreshRaj001/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1168-duplicate-zeros](https://github.com/RudreshRaj001/LeetCode/tree/master/1168-duplicate-zeros) |
@@ -458,6 +459,7 @@
 | [0392-is-subsequence](https://github.com/RudreshRaj001/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/RudreshRaj001/LeetCode/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/RudreshRaj001/LeetCode/tree/master/0500-keyboard-row) |
+| [0793-swap-adjacent-in-lr-string](https://github.com/RudreshRaj001/LeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0812-rotate-string](https://github.com/RudreshRaj001/LeetCode/tree/master/0812-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/RudreshRaj001/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/RudreshRaj001/LeetCode/tree/master/1205-defanging-an-ip-address) |
