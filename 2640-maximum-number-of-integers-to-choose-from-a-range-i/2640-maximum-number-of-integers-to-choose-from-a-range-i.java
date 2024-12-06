@@ -4,10 +4,6 @@ class Solution {
         for (int num : banned) {
             hashSet.add(num); 
         }
-        boolean[] isBanned = new boolean[10001];
-        for (int ban : banned) {
-            isBanned[ban] = true;
-        }
         int count = 0;
         int sum = 0;
         for(int i = 1; i <= n; i++){
