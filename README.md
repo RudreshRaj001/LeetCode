@@ -108,6 +108,7 @@
 | [2048-build-array-from-permutation](https://github.com/RudreshRaj001/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/RudreshRaj001/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2089-maximum-matrix-sum](https://github.com/RudreshRaj001/LeetCode/tree/master/2089-maximum-matrix-sum) |
+| [2164-two-best-non-overlapping-events](https://github.com/RudreshRaj001/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/RudreshRaj001/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RudreshRaj001/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/RudreshRaj001/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -309,6 +310,7 @@
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/RudreshRaj001/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/RudreshRaj001/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2047-find-a-peak-element-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [2164-two-best-non-overlapping-events](https://github.com/RudreshRaj001/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/RudreshRaj001/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RudreshRaj001/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RudreshRaj001/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -342,6 +344,7 @@
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/RudreshRaj001/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/RudreshRaj001/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/RudreshRaj001/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2164-two-best-non-overlapping-events](https://github.com/RudreshRaj001/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/RudreshRaj001/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RudreshRaj001/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/RudreshRaj001/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -367,6 +370,7 @@
 | [0392-is-subsequence](https://github.com/RudreshRaj001/LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/RudreshRaj001/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/RudreshRaj001/LeetCode/tree/master/1013-fibonacci-number) |
+| [2164-two-best-non-overlapping-events](https://github.com/RudreshRaj001/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/RudreshRaj001/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 ## Greedy
 |  |
@@ -506,6 +510,7 @@
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/RudreshRaj001/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RudreshRaj001/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2164-two-best-non-overlapping-events](https://github.com/RudreshRaj001/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RudreshRaj001/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Recursion
 |  |
