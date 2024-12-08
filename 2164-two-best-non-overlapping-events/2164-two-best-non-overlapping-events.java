@@ -16,14 +16,13 @@ class Solution {
             newEvents.add(eventStr);
             newEvents.add(eventEnd);
         }
-        // int[][] stops = newEvents.toArray();
-        // Convert 2D ArrayList to 2D array
-        int[][] stops = new int[newEvents.size()][3]; // Array with rows equal to list size
+
+        int[][] stops = new int[newEvents.size()][3]; 
         for (int i = 0; i < newEvents.size(); i++) {
             List<Integer> row = newEvents.get(i);
-            stops[i] = row.stream().mapToInt(Integer::intValue).toArray(); // Convert each row
+            stops[i] = row.stream().mapToInt(Integer::intValue).toArray();
         }
-        // Arrays.sort(stops, (a, b) -> Integer.compare(a[0], b[0]));
+        // Arrays.sort(stops, (a, b) -> Integer.compare(a[0], b[0])); // WRONG if times ties
         Arrays.sort(stops, (a, b) -> a[0] == b[0] ? Integer.compare(b[1], a[1]) : Integer.compare(a[0], b[0]));
         
         int maxVal = 0;
