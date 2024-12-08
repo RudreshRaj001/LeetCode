@@ -23,11 +23,8 @@ class Solution {
             stops[i] = row.stream().mapToInt(Integer::intValue).toArray();
         }
 
-        // Arrays.sort(stops, (a, b) -> 
-            // Integer.compare(a[0], b[0])); // WRONG if times ties
-            
-        Arrays.sort(stops, (a, b) -> 
-            a[0] == b[0] ? Integer.compare(b[1], a[1]) : Integer.compare(a[0], b[0]));
+        // Arrays.sort(stops, (a, b) -> Integer.compare(a[0], b[0])); // WRONG if times ties
+        Arrays.sort(stops, (a, b) -> a[0] == b[0] ? Integer.compare(b[1], a[1]) : Integer.compare(a[0], b[0]));
         
         int maxVal = 0;
         int maxSeen = 0;
