@@ -122,6 +122,7 @@
 | [3188-find-champion-i](https://github.com/RudreshRaj001/LeetCode/tree/master/3188-find-champion-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/RudreshRaj001/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3427-special-array-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/RudreshRaj001/LeetCode/tree/master/3429-special-array-i) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/RudreshRaj001/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/RudreshRaj001/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -317,6 +318,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RudreshRaj001/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/RudreshRaj001/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/RudreshRaj001/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [3427-special-array-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/3427-special-array-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -401,6 +403,7 @@
 | [1833-find-the-highest-altitude](https://github.com/RudreshRaj001/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/RudreshRaj001/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [1983-maximum-population-year](https://github.com/RudreshRaj001/LeetCode/tree/master/1983-maximum-population-year) |
+| [3427-special-array-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/3427-special-array-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
