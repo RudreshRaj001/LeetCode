@@ -1,9 +1,3 @@
-// class Solution {
-//     public int maximumLength(String s) {
-        
-//     }
-// }
-
 class Solution {
     public int maximumLength(String s) {
         int n = s.length();
