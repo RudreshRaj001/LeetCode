@@ -1,39 +1,46 @@
 class Solution {
     public int maximumLength(String s) {
-        int [][]arr = new int[26][3];
-        char ls = '*';
-        int cunt = 0;
-        for (int i = 0; i < arr.length; i++) {
-            Arrays.fill(arr[i], -1);
+        int n = s.length();
+        int[][] tops = new int[26][3];
+
+        for (int i = 0; i < 26; i++) {
+            Arrays.fill(tops[i], -1);
         }
 
-        for(int i=0;i<s.length();i++){
-            char ch = s.charAt(i);
-            if(ch==ls){
-                cunt++;
+        char lastSeen = '*';
+        int window = 0;
+        int max_len = -1;
+        for(int i = 0; i < n; i++){
+            char temp = s.charAt(i);
+            if(temp == lastSeen){
+                window++;
+            }else{
+                lastSeen = temp;
+                window = 1;
             }
-            else{
-                cunt=1;
-                ls=ch;
-            }
-            int minIdx = 0;
-            for(int j=1;j<3;j++){
-                if(arr[ch-'a'][j]<arr[ch-'a'][minIdx]){
-                    minIdx=j;
+
+            int min = Integer.MAX_VALUE;
+            int a = (int)temp - 'a';
+            int b = 0;
+            for(int k = 0; k < 3; k++){
+                if(tops[a][k] < min){
+                    min = tops[a][k];
+                    b = k;
                 }
             }
-            if(arr[ch-'a'][minIdx]<cunt){
-                arr[ch-'a'][minIdx]=cunt;
-            }
+            tops[a][b] = Math.max(tops[a][b], window);
         }
-        int max = -1;
-        for(int[] ar: arr){
-            int min = ar[0];
-            for(int ele:ar){
-                min = Math.min(min,ele);
+
+        for(int i = 0; i < 26; i++){
+            int min = Integer.MAX_VALUE;
+            for(int j = 0; j < 3; j++){
+                if(tops[i][j] < min){
+                    min = tops[i][j];
+                }
             }
-            max = Math.max(min,max);
+            max_len = Math.max(max_len,min);
         }
-        return max;
+        return max_len;
     }
+
 }
