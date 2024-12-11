@@ -13,16 +13,17 @@ class Solution {
         //     ans = Math.max(right - left, ans);
         // }
         int ans = 0;
+        int right = 0;
         for(int left = 0; left < nums.length; left++){
-            int right = binarySearch(nums, nums[left] + (2 * k));
+            right = binarySearch(nums, nums[left] + (2 * k), left);
             ans = Math.max(ans, right - left + 1);
         }
         return ans;
     }
-    private int binarySearch(int[] nums, int target){
+    private int binarySearch(int[] nums, int target,int start){
         // flag -> true -> returns floor
         // flag -> false -> returns ceil
-        int l = 0;
+        int l = start;
         int r = nums.length - 1;
         while(l <= r){
             int mid = l + (r - l) / 2;
