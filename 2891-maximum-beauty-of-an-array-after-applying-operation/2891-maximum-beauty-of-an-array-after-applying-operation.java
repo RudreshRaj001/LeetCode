@@ -15,7 +15,7 @@ class Solution {
         int ans = 0;
         int right = 0;
         for(int left = 0; left < nums.length; left++){
-            right = binarySearch(nums, nums[left] + (2 * k), left);
+            right = binarySearch(nums, nums[left] + (2 * k), right);
             ans = Math.max(ans, right - left + 1);
         }
         return ans;
