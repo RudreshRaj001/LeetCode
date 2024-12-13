@@ -1,16 +1,16 @@
 class Solution {
     public long findScore(int[] nums) {
         int n = nums.length;
-        int[][] dp = new int[n][2];
+        int[][] array = new int[n][2];
         for (int i = 0; i < n; i++) {
-            dp[i][0] = nums[i];
-            dp[i][1] = i;
+            array[i][0] = nums[i];
+            array[i][1] = i;
         }
-        Arrays.sort(dp, (a, b) -> a[0] - b[0]);
+        Arrays.sort(array, (a, b) -> a[0] - b[0]);
 
         boolean[] marked = new boolean[n];
         long result = 0;
-        for (int[] arr : dp) {
+        for (int[] arr : array) {
             int val = arr[0];
             int ind = arr[1];
             if (!marked[ind]) {
