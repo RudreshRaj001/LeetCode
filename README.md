@@ -101,6 +101,7 @@
 | [1839-decode-xored-array](https://github.com/RudreshRaj001/LeetCode/tree/master/1839-decode-xored-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/RudreshRaj001/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1899-count-items-matching-a-rule](https://github.com/RudreshRaj001/LeetCode/tree/master/1899-count-items-matching-a-rule) |
+| [1917-maximum-average-pass-ratio](https://github.com/RudreshRaj001/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1940-maximum-xor-for-each-query](https://github.com/RudreshRaj001/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/RudreshRaj001/LeetCode/tree/master/1972-rotating-the-box) |
 | [1983-maximum-population-year](https://github.com/RudreshRaj001/LeetCode/tree/master/1983-maximum-population-year) |
@@ -400,6 +401,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/RudreshRaj001/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/RudreshRaj001/LeetCode/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RudreshRaj001/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1917-maximum-average-pass-ratio](https://github.com/RudreshRaj001/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/RudreshRaj001/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/RudreshRaj001/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RudreshRaj001/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -536,6 +538,7 @@
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/RudreshRaj001/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RudreshRaj001/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1917-maximum-average-pass-ratio](https://github.com/RudreshRaj001/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/RudreshRaj001/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RudreshRaj001/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/RudreshRaj001/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
