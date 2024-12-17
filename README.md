@@ -170,6 +170,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RudreshRaj001/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/RudreshRaj001/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/RudreshRaj001/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2300-construct-string-with-repeat-limit](https://github.com/RudreshRaj001/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/RudreshRaj001/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RudreshRaj001/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/RudreshRaj001/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -405,6 +406,7 @@
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RudreshRaj001/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1917-maximum-average-pass-ratio](https://github.com/RudreshRaj001/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/RudreshRaj001/LeetCode/tree/master/2089-maximum-matrix-sum) |
+| [2300-construct-string-with-repeat-limit](https://github.com/RudreshRaj001/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/RudreshRaj001/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RudreshRaj001/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/RudreshRaj001/LeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -472,6 +474,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RudreshRaj001/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/RudreshRaj001/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1983-maximum-population-year](https://github.com/RudreshRaj001/LeetCode/tree/master/1983-maximum-population-year) |
+| [2300-construct-string-with-repeat-limit](https://github.com/RudreshRaj001/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/RudreshRaj001/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RudreshRaj001/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -508,6 +511,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/RudreshRaj001/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RudreshRaj001/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/RudreshRaj001/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2300-construct-string-with-repeat-limit](https://github.com/RudreshRaj001/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/RudreshRaj001/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/RudreshRaj001/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2580-circular-sentence](https://github.com/RudreshRaj001/LeetCode/tree/master/2580-circular-sentence) |
@@ -543,6 +547,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RudreshRaj001/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/RudreshRaj001/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/RudreshRaj001/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
+| [2300-construct-string-with-repeat-limit](https://github.com/RudreshRaj001/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RudreshRaj001/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/RudreshRaj001/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/RudreshRaj001/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
