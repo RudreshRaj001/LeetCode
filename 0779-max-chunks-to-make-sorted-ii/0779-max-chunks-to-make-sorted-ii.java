@@ -4,14 +4,14 @@ class Solution {
         int ans = 1;
         int mx = 0;
         int mn = Integer.MAX_VALUE;
-        int[] max = new int[n];
+        // int[] max = new int[n];
         int[] min = new int[n];
-        for(int i = 0; i < n; i++){
-            if(mx < arr[i]){
-                mx = arr[i];
-            }
-            max[i] = mx;
-        }
+        // for(int i = 0; i < n; i++){
+        //     if(mx < arr[i]){
+        //         mx = arr[i];
+        //     }
+        //     max[i] = mx;
+        // }
         for(int i = n - 1; i >= 0; i--){
             if(mn > arr[i]){
                 mn = arr[i];
@@ -19,7 +19,10 @@ class Solution {
             min[i] = mn;
         }
         for(int i = 0; i < n - 1; i++){
-            if(max[i] <= min[i + 1]) ans++;
+            if(mx < arr[i]){
+                mx = arr[i];
+            }
+            if(mx <= min[i + 1]) ans++;
         }
         return ans;
     }
