@@ -1,16 +1,13 @@
 class Solution {
     public int maxChunksToSorted(int[] arr) {
-        int n = arr.length;
-        int ans = 0;
-        int i = 0;
-        int max = arr[0];
-        while(i < n){
-            if(max < arr[i]){
-                max = arr[i];
+        int max = 0;
+        int chunks = 0;
+        for (int i = 0; i < arr.length; i++) {
+            max = Math.max(max, arr[i]);
+            if (max == i) {
+                chunks++;
             }
-            if(max == i) ans++;
-            i++;
         }
-        return ans;
+        return chunks;
     }
 }
