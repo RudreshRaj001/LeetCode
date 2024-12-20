@@ -15,10 +15,10 @@
  */
 class Solution {
     public TreeNode invertTree(TreeNode root) {
-        inorder(root);
+        trav(root);
         return root;
     }
-     private void inorder(TreeNode node){
+     private void trav(TreeNode node){
         if (node == null) {
             return;
         }
@@ -26,8 +26,8 @@ class Solution {
         temp = node.left;
         node.left = node.right;
         node.right = temp;
-        inorder(node.left);
-        inorder(node.right);
+        trav(node.left);
+        trav(node.right);
         return;
     }
 }
