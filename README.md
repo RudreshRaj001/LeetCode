@@ -643,12 +643,14 @@
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RudreshRaj001/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/RudreshRaj001/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RudreshRaj001/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/RudreshRaj001/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RudreshRaj001/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/3189-find-champion-ii) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RudreshRaj001/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/RudreshRaj001/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Backtracking
 |  |
@@ -668,6 +670,7 @@
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/RudreshRaj001/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/RudreshRaj001/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RudreshRaj001/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -677,6 +680,7 @@
 | [0226-invert-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0226-invert-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/RudreshRaj001/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RudreshRaj001/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
 | ------- |
