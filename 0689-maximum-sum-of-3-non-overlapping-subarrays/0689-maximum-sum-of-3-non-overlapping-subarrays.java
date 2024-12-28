@@ -37,15 +37,10 @@ class Solution {
 
         int maxSum = 0;
         int[] result = new int[3];
-        
         for (int middle = k; middle < sum.length - k; middle++) {
-
-            int l = left[middle - k]; // 
-
-            int r = right[middle + k]; //
-            
+            int l = left[middle - k]; 
+            int r = right[middle + k]; 
             int total = sum[l] + sum[middle] + sum[r];
-
             if (total > maxSum) {
                 maxSum = total;
                 result[0] = l;
