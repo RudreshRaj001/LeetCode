@@ -435,6 +435,7 @@
 | [0238-product-of-array-except-self](https://github.com/RudreshRaj001/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/RudreshRaj001/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/RudreshRaj001/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/RudreshRaj001/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/RudreshRaj001/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/RudreshRaj001/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/RudreshRaj001/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
@@ -522,6 +523,7 @@
 | [1205-defanging-an-ip-address](https://github.com/RudreshRaj001/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/RudreshRaj001/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/RudreshRaj001/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/RudreshRaj001/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RudreshRaj001/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/RudreshRaj001/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RudreshRaj001/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
