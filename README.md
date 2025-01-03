@@ -18,6 +18,7 @@
 | [0045-jump-game-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/RudreshRaj001/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/RudreshRaj001/LeetCode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/RudreshRaj001/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/RudreshRaj001/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RudreshRaj001/LeetCode/tree/master/0056-merge-intervals) |
@@ -672,6 +673,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RudreshRaj001/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0051-n-queens](https://github.com/RudreshRaj001/LeetCode/tree/master/0051-n-queens) |
 | [0401-binary-watch](https://github.com/RudreshRaj001/LeetCode/tree/master/0401-binary-watch) |
 ## Shortest Path
 |  |
