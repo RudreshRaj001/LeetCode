@@ -9,11 +9,11 @@ class Solution {
             first[s.charAt(i) - 'a'] = Math.min(first[s.charAt(i) - 'a'], i);
             last[s.charAt(i) - 'a'] = i;
         }
-        for (int i = 0; i < 26; i++){
-            if (first[i] < last[i]){
+        for (int i = 0; i < 26; i++) {
+            if (first[i] < last[i]) {
                 res += s.substring(first[i] + 1, last[i]).chars().distinct().count();
             }
         }
-    return res;
+        return res;
     }
 }
