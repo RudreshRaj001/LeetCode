@@ -18,15 +18,13 @@ class Solution {
         }
 
 
+
+
         int diff = 0;
+        StringBuilder result = new StringBuilder();
         for (int i = 0; i < n; i++) {
             diff += shf[i];
             shf[i] = diff; 
-        }
-
-
-        StringBuilder result = new StringBuilder();
-        for (int i = 0; i < n; i++) {
             int currentChar = s.charAt(i) - 'a'; 
             int shiftedChar = (currentChar + shf[i]) % 26;
             if (shiftedChar < 0) { 
