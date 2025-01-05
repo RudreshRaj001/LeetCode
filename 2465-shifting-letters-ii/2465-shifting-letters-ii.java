@@ -24,9 +24,9 @@ class Solution {
         StringBuilder result = new StringBuilder();
         for (int i = 0; i < n; i++) {
             diff += shf[i];
-            shf[i] = diff; 
+            // shf[i] = diff; 
             int currentChar = s.charAt(i) - 'a'; 
-            int shiftedChar = (currentChar + shf[i]) % 26;
+            int shiftedChar = (currentChar + diff) % 26;
             if (shiftedChar < 0) { 
                 shiftedChar += 26;
             }
