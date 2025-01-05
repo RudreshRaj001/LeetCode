@@ -17,9 +17,6 @@ class Solution {
             }
         }
 
-
-
-
         int diff = 0;
         StringBuilder result = new StringBuilder();
         for (int i = 0; i < n; i++) {
