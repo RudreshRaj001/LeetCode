@@ -110,6 +110,7 @@
 | [1833-find-the-highest-altitude](https://github.com/RudreshRaj001/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1839-decode-xored-array](https://github.com/RudreshRaj001/LeetCode/tree/master/1839-decode-xored-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/RudreshRaj001/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RudreshRaj001/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/RudreshRaj001/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1917-maximum-average-pass-ratio](https://github.com/RudreshRaj001/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1940-maximum-xor-for-each-query](https://github.com/RudreshRaj001/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
@@ -447,6 +448,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RudreshRaj001/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/RudreshRaj001/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/RudreshRaj001/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RudreshRaj001/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/RudreshRaj001/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [1983-maximum-population-year](https://github.com/RudreshRaj001/LeetCode/tree/master/1983-maximum-population-year) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RudreshRaj001/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -544,6 +546,7 @@
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/RudreshRaj001/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RudreshRaj001/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1894-merge-strings-alternately](https://github.com/RudreshRaj001/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RudreshRaj001/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/RudreshRaj001/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/RudreshRaj001/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RudreshRaj001/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
