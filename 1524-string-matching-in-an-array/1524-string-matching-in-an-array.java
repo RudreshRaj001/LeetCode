@@ -6,6 +6,7 @@ class Solution {
             for(int j = 0; j < n; j++){
                 if(i != j && words[j].contains(words[i])){
                     ans.add(words[i]);
+                    break;
                 }
             }
         }
