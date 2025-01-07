@@ -530,6 +530,7 @@
 | [0125-valid-palindrome](https://github.com/RudreshRaj001/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/RudreshRaj001/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/RudreshRaj001/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/RudreshRaj001/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/RudreshRaj001/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/RudreshRaj001/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/RudreshRaj001/LeetCode/tree/master/0344-reverse-string) |
@@ -651,6 +652,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RudreshRaj001/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/RudreshRaj001/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/RudreshRaj001/LeetCode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/RudreshRaj001/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RudreshRaj001/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -749,4 +751,12 @@
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/RudreshRaj001/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/RudreshRaj001/LeetCode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/RudreshRaj001/LeetCode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
