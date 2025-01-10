@@ -15,11 +15,11 @@
  */
 class Solution {
     public List<Integer> postorderTraversal(TreeNode root) {
-        List<Integer> pre = new ArrayList<>();
-        if(root == null) return pre;
-        pre.addAll(postorderTraversal(root.left));
-        pre.addAll(postorderTraversal(root.right));
-        pre.add(root.val);
-        return pre;
+        List<Integer> post = new ArrayList<>();
+        if(root == null) return post;
+        post.addAll(postorderTraversal(root.left));
+        post.addAll(postorderTraversal(root.right));
+        post.add(root.val);
+        return post;
     }
 }
