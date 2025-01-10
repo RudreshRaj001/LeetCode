@@ -76,6 +76,7 @@
 | [0898-transpose-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/RudreshRaj001/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/RudreshRaj001/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [0952-word-subsets](https://github.com/RudreshRaj001/LeetCode/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/RudreshRaj001/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1031-add-to-array-form-of-integer](https://github.com/RudreshRaj001/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1063-best-sightseeing-pair](https://github.com/RudreshRaj001/LeetCode/tree/master/1063-best-sightseeing-pair) |
@@ -183,6 +184,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RudreshRaj001/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/RudreshRaj001/LeetCode/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/RudreshRaj001/LeetCode/tree/master/0645-set-mismatch) |
+| [0952-word-subsets](https://github.com/RudreshRaj001/LeetCode/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/RudreshRaj001/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RudreshRaj001/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RudreshRaj001/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -549,6 +551,7 @@
 | [0793-swap-adjacent-in-lr-string](https://github.com/RudreshRaj001/LeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0812-rotate-string](https://github.com/RudreshRaj001/LeetCode/tree/master/0812-rotate-string) |
 | [0878-shifting-letters](https://github.com/RudreshRaj001/LeetCode/tree/master/0878-shifting-letters) |
+| [0952-word-subsets](https://github.com/RudreshRaj001/LeetCode/tree/master/0952-word-subsets) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/RudreshRaj001/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/RudreshRaj001/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/RudreshRaj001/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
