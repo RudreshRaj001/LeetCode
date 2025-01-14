@@ -442,6 +442,7 @@
 | [0605-can-place-flowers](https://github.com/RudreshRaj001/LeetCode/tree/master/0605-can-place-flowers) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RudreshRaj001/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/RudreshRaj001/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/RudreshRaj001/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/RudreshRaj001/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1502-construct-k-palindrome-strings](https://github.com/RudreshRaj001/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -561,6 +562,7 @@
 | [0812-rotate-string](https://github.com/RudreshRaj001/LeetCode/tree/master/0812-rotate-string) |
 | [0878-shifting-letters](https://github.com/RudreshRaj001/LeetCode/tree/master/0878-shifting-letters) |
 | [0952-word-subsets](https://github.com/RudreshRaj001/LeetCode/tree/master/0952-word-subsets) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/RudreshRaj001/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/RudreshRaj001/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/RudreshRaj001/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/RudreshRaj001/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -690,6 +692,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/RudreshRaj001/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RudreshRaj001/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/RudreshRaj001/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/RudreshRaj001/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/RudreshRaj001/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RudreshRaj001/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
