@@ -116,6 +116,7 @@
 | [1899-count-items-matching-a-rule](https://github.com/RudreshRaj001/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1917-maximum-average-pass-ratio](https://github.com/RudreshRaj001/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1940-maximum-xor-for-each-query](https://github.com/RudreshRaj001/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/RudreshRaj001/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1972-rotating-the-box](https://github.com/RudreshRaj001/LeetCode/tree/master/1972-rotating-the-box) |
 | [1983-maximum-population-year](https://github.com/RudreshRaj001/LeetCode/tree/master/1983-maximum-population-year) |
 | [2047-find-a-peak-element-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/2047-find-a-peak-element-ii) |
@@ -352,6 +353,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/RudreshRaj001/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/RudreshRaj001/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/RudreshRaj001/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/RudreshRaj001/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2164-two-best-non-overlapping-events](https://github.com/RudreshRaj001/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/RudreshRaj001/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -394,6 +396,7 @@
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/RudreshRaj001/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/RudreshRaj001/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/RudreshRaj001/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/RudreshRaj001/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2164-two-best-non-overlapping-events](https://github.com/RudreshRaj001/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/RudreshRaj001/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RudreshRaj001/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -450,6 +453,7 @@
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/RudreshRaj001/LeetCode/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RudreshRaj001/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1917-maximum-average-pass-ratio](https://github.com/RudreshRaj001/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/RudreshRaj001/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2089-maximum-matrix-sum](https://github.com/RudreshRaj001/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/RudreshRaj001/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/RudreshRaj001/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -470,6 +474,7 @@
 | [1833-find-the-highest-altitude](https://github.com/RudreshRaj001/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RudreshRaj001/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/RudreshRaj001/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/RudreshRaj001/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1983-maximum-population-year](https://github.com/RudreshRaj001/LeetCode/tree/master/1983-maximum-population-year) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RudreshRaj001/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/RudreshRaj001/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
@@ -609,6 +614,7 @@
 | [0219-contains-duplicate-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/RudreshRaj001/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/RudreshRaj001/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/RudreshRaj001/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RudreshRaj001/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/RudreshRaj001/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/RudreshRaj001/LeetCode/tree/master/2868-continuous-subarrays) |
