@@ -58,6 +58,7 @@
 | [0414-third-maximum-number](https://github.com/RudreshRaj001/LeetCode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RudreshRaj001/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RudreshRaj001/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/RudreshRaj001/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/RudreshRaj001/LeetCode/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RudreshRaj001/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/0566-reshape-the-matrix) |
