@@ -60,6 +60,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/RudreshRaj001/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RudreshRaj001/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/RudreshRaj001/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/RudreshRaj001/LeetCode/tree/master/0493-reverse-pairs) |
 | [0500-keyboard-row](https://github.com/RudreshRaj001/LeetCode/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RudreshRaj001/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RudreshRaj001/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -348,6 +349,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/RudreshRaj001/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/RudreshRaj001/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/RudreshRaj001/LeetCode/tree/master/0441-arranging-coins) |
+| [0493-reverse-pairs](https://github.com/RudreshRaj001/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RudreshRaj001/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/RudreshRaj001/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0755-reach-a-number](https://github.com/RudreshRaj001/LeetCode/tree/master/0755-reach-a-number) |
@@ -667,6 +669,7 @@
 | [0169-majority-element](https://github.com/RudreshRaj001/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/RudreshRaj001/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/RudreshRaj001/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0493-reverse-pairs](https://github.com/RudreshRaj001/LeetCode/tree/master/0493-reverse-pairs) |
 ## Counting Sort
 |  |
 | ------- |
@@ -805,14 +808,17 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/RudreshRaj001/LeetCode/tree/master/0493-reverse-pairs) |
 | [2868-continuous-subarrays](https://github.com/RudreshRaj001/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/RudreshRaj001/LeetCode/tree/master/0493-reverse-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/RudreshRaj001/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/RudreshRaj001/LeetCode/tree/master/0493-reverse-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/RudreshRaj001/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Rolling Hash
 |  |
@@ -836,4 +842,8 @@
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RudreshRaj001/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/RudreshRaj001/LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
