@@ -779,6 +779,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/RudreshRaj001/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RudreshRaj001/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/RudreshRaj001/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/RudreshRaj001/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -794,6 +795,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/RudreshRaj001/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RudreshRaj001/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/RudreshRaj001/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RudreshRaj001/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -808,6 +810,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/RudreshRaj001/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RudreshRaj001/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/RudreshRaj001/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Ordered Set
