@@ -1,12 +1,9 @@
 class Solution {
     public boolean doesValidArrayExist(int[] derived) {
-        boolean first = true;
-        boolean last = true;
-        for(int i = 0; i < derived.length; i++){
-            if(derived[i] == 1){
-                last = !last;
-            }
+        int res = 0;
+        for (int x : derived) {
+            res ^= x;
         }
-        return first == last;
+        return res == 0;
     }
 }
