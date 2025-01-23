@@ -91,6 +91,7 @@
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/RudreshRaj001/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1372-check-if-it-is-a-good-array](https://github.com/RudreshRaj001/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1396-count-servers-that-communicate](https://github.com/RudreshRaj001/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RudreshRaj001/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/RudreshRaj001/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RudreshRaj001/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -271,6 +272,7 @@
 | [0861-flipping-an-image](https://github.com/RudreshRaj001/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/0898-transpose-matrix) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/RudreshRaj001/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1396-count-servers-that-communicate](https://github.com/RudreshRaj001/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RudreshRaj001/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -562,6 +564,7 @@
 | [0383-ransom-note](https://github.com/RudreshRaj001/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RudreshRaj001/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/RudreshRaj001/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1396-count-servers-that-communicate](https://github.com/RudreshRaj001/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RudreshRaj001/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/RudreshRaj001/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1635-number-of-good-pairs](https://github.com/RudreshRaj001/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -767,6 +770,7 @@
 | [0112-path-sum](https://github.com/RudreshRaj001/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0787-sliding-puzzle](https://github.com/RudreshRaj001/LeetCode/tree/master/0787-sliding-puzzle) |
+| [1396-count-servers-that-communicate](https://github.com/RudreshRaj001/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RudreshRaj001/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RudreshRaj001/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -825,6 +829,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/RudreshRaj001/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1396-count-servers-that-communicate](https://github.com/RudreshRaj001/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/RudreshRaj001/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RudreshRaj001/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -877,6 +882,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RudreshRaj001/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [1396-count-servers-that-communicate](https://github.com/RudreshRaj001/LeetCode/tree/master/1396-count-servers-that-communicate) |
 ## Brainteaser
 |  |
 | ------- |
