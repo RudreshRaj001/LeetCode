@@ -209,6 +209,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RudreshRaj001/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/RudreshRaj001/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1635-number-of-good-pairs](https://github.com/RudreshRaj001/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RudreshRaj001/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/RudreshRaj001/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RudreshRaj001/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/RudreshRaj001/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -572,6 +573,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RudreshRaj001/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/RudreshRaj001/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1635-number-of-good-pairs](https://github.com/RudreshRaj001/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RudreshRaj001/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1983-maximum-population-year](https://github.com/RudreshRaj001/LeetCode/tree/master/1983-maximum-population-year) |
 | [2300-construct-string-with-repeat-limit](https://github.com/RudreshRaj001/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/RudreshRaj001/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -619,6 +621,7 @@
 | [1894-merge-strings-alternately](https://github.com/RudreshRaj001/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RudreshRaj001/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/RudreshRaj001/LeetCode/tree/master/1899-count-items-matching-a-rule) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RudreshRaj001/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/RudreshRaj001/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RudreshRaj001/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RudreshRaj001/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
