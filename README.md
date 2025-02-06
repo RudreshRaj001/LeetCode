@@ -68,6 +68,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/RudreshRaj001/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/RudreshRaj001/LeetCode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/RudreshRaj001/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/RudreshRaj001/LeetCode/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/RudreshRaj001/LeetCode/tree/master/0645-set-mismatch) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/RudreshRaj001/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -208,6 +209,7 @@
 | [0500-keyboard-row](https://github.com/RudreshRaj001/LeetCode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/RudreshRaj001/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/RudreshRaj001/LeetCode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/RudreshRaj001/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/RudreshRaj001/LeetCode/tree/master/0645-set-mismatch) |
 | [0952-word-subsets](https://github.com/RudreshRaj001/LeetCode/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/RudreshRaj001/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -421,6 +423,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/RudreshRaj001/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/RudreshRaj001/LeetCode/tree/master/0414-third-maximum-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/RudreshRaj001/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/RudreshRaj001/LeetCode/tree/master/0645-set-mismatch) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RudreshRaj001/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -576,6 +579,7 @@
 | [0229-majority-element-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/RudreshRaj001/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RudreshRaj001/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/RudreshRaj001/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/RudreshRaj001/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1364-tuple-with-same-product](https://github.com/RudreshRaj001/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/RudreshRaj001/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -661,6 +665,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/RudreshRaj001/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/RudreshRaj001/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/RudreshRaj001/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/RudreshRaj001/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/RudreshRaj001/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RudreshRaj001/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
