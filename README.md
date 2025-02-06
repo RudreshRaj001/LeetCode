@@ -62,6 +62,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RudreshRaj001/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/RudreshRaj001/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/RudreshRaj001/LeetCode/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/RudreshRaj001/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/RudreshRaj001/LeetCode/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RudreshRaj001/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RudreshRaj001/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -202,6 +203,7 @@
 | [0409-longest-palindrome](https://github.com/RudreshRaj001/LeetCode/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RudreshRaj001/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RudreshRaj001/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/RudreshRaj001/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/RudreshRaj001/LeetCode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/RudreshRaj001/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/RudreshRaj001/LeetCode/tree/master/0645-set-mismatch) |
@@ -754,6 +756,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/RudreshRaj001/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RudreshRaj001/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RudreshRaj001/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/RudreshRaj001/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RudreshRaj001/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RudreshRaj001/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -765,6 +768,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/RudreshRaj001/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RudreshRaj001/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/RudreshRaj001/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
