@@ -128,6 +128,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RudreshRaj001/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/RudreshRaj001/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1917-maximum-average-pass-ratio](https://github.com/RudreshRaj001/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/RudreshRaj001/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/RudreshRaj001/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RudreshRaj001/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1972-rotating-the-box](https://github.com/RudreshRaj001/LeetCode/tree/master/1972-rotating-the-box) |
