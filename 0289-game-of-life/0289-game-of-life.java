@@ -41,28 +41,28 @@ class Solution {
                     cnt +=  copy[i + 1][j + 1];
                 }
 
-                // if(cnt < 2){
-                //     board[i][j] = 0;
-                // }else if(board[i][j] == 1 && (cnt == 2 || cnt == 3)){
-                //     board[i][j] = 1;
-                // }else if(cnt == 3){
-                //     board[i][j] = 1;
-                // }else if(cnt > 3){
-                //     board[i][j] = 0;
+                if(cnt < 2){
+                    board[i][j] = 0;
+                }else if(board[i][j] == 1 && (cnt == 2 || cnt == 3)){
+                    board[i][j] = 1;
+                }else if(cnt == 3){
+                    board[i][j] = 1;
+                }else if(cnt > 3){
+                    board[i][j] = 0;
+                }
+                // if(board[i][j]==1){
+                //     if(cnt<2){
+                //         board[i][j]=0;
+                //     }
+                //     else if(cnt>3){
+                //         board[i][j]=0;
+                //     }
                 // }
-                if(board[i][j]==1){
-                    if(cnt<2){
-                        board[i][j]=0;
-                    }
-                    else if(cnt>3){
-                        board[i][j]=0;
-                    }
-                }
-                else{
-                   if(cnt==3){
-                        board[i][j]=1;
-                    } 
-                }
+                // else{
+                //    if(cnt==3){
+                //         board[i][j]=1;
+                //     } 
+                // }
 
                 j++;
             }
