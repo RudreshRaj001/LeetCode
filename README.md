@@ -151,6 +151,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/RudreshRaj001/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/RudreshRaj001/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RudreshRaj001/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2448-count-number-of-bad-pairs](https://github.com/RudreshRaj001/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RudreshRaj001/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RudreshRaj001/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -231,6 +232,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RudreshRaj001/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/RudreshRaj001/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/RudreshRaj001/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/RudreshRaj001/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RudreshRaj001/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/RudreshRaj001/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RudreshRaj001/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -276,6 +278,7 @@
 | [1610-xor-operation-in-an-array](https://github.com/RudreshRaj001/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/RudreshRaj001/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/RudreshRaj001/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
+| [2448-count-number-of-bad-pairs](https://github.com/RudreshRaj001/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/RudreshRaj001/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2812-find-the-maximum-achievable-number](https://github.com/RudreshRaj001/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/RudreshRaj001/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
@@ -605,6 +608,7 @@
 | [1983-maximum-population-year](https://github.com/RudreshRaj001/LeetCode/tree/master/1983-maximum-population-year) |
 | [2300-construct-string-with-repeat-limit](https://github.com/RudreshRaj001/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/RudreshRaj001/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/RudreshRaj001/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RudreshRaj001/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/RudreshRaj001/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
