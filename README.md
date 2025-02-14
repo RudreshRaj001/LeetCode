@@ -105,6 +105,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/RudreshRaj001/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RudreshRaj001/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1477-product-of-the-last-k-numbers](https://github.com/RudreshRaj001/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RudreshRaj001/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RudreshRaj001/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -281,6 +282,7 @@
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/RudreshRaj001/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/RudreshRaj001/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RudreshRaj001/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1477-product-of-the-last-k-numbers](https://github.com/RudreshRaj001/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/RudreshRaj001/LeetCode/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1610-xor-operation-in-an-array](https://github.com/RudreshRaj001/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/RudreshRaj001/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -535,6 +537,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/RudreshRaj001/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0878-shifting-letters](https://github.com/RudreshRaj001/LeetCode/tree/master/0878-shifting-letters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/RudreshRaj001/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1477-product-of-the-last-k-numbers](https://github.com/RudreshRaj001/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RudreshRaj001/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/RudreshRaj001/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/RudreshRaj001/LeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -966,4 +969,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RudreshRaj001/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/RudreshRaj001/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/RudreshRaj001/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
