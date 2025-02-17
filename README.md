@@ -126,6 +126,7 @@
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/RudreshRaj001/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/RudreshRaj001/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1791-richest-customer-wealth](https://github.com/RudreshRaj001/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/RudreshRaj001/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/RudreshRaj001/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1839-decode-xored-array](https://github.com/RudreshRaj001/LeetCode/tree/master/1839-decode-xored-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RudreshRaj001/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -866,6 +867,7 @@
 | [0051-n-queens](https://github.com/RudreshRaj001/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/0052-n-queens-ii) |
 | [0401-binary-watch](https://github.com/RudreshRaj001/LeetCode/tree/master/0401-binary-watch) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/RudreshRaj001/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/RudreshRaj001/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Shortest Path
 |  |
