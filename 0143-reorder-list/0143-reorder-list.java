@@ -12,9 +12,7 @@ class Solution {
     public void reorderList(ListNode head) {
         ListNode mid = middleNode(head);
         ListNode headSecond = reverseList(mid);
-        ListNode dummyhead = new ListNode(0);
-        ListNode h = head;
-        dummyhead.next = h;
+
         while(head.next != null && headSecond.next != null){
             ListNode temp = head.next;
             head.next = headSecond;
@@ -24,7 +22,6 @@ class Solution {
             headSecond.next = head;
             headSecond = temp;
         }
-        // return head;
     }
 
     private ListNode middleNode(ListNode head) {
