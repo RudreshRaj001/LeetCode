@@ -495,6 +495,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RudreshRaj001/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/RudreshRaj001/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/RudreshRaj001/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/RudreshRaj001/LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/RudreshRaj001/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/RudreshRaj001/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -565,6 +566,7 @@
 | [0231-power-of-two](https://github.com/RudreshRaj001/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RudreshRaj001/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RudreshRaj001/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/RudreshRaj001/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/RudreshRaj001/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/RudreshRaj001/LeetCode/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/RudreshRaj001/LeetCode/tree/master/0401-binary-watch) |
