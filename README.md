@@ -279,6 +279,7 @@
 | [0755-reach-a-number](https://github.com/RudreshRaj001/LeetCode/tree/master/0755-reach-a-number) |
 | [1013-fibonacci-number](https://github.com/RudreshRaj001/LeetCode/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/RudreshRaj001/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1086-divisor-game](https://github.com/RudreshRaj001/LeetCode/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/RudreshRaj001/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/RudreshRaj001/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1372-check-if-it-is-a-good-array](https://github.com/RudreshRaj001/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
@@ -511,6 +512,7 @@
 | [1013-fibonacci-number](https://github.com/RudreshRaj001/LeetCode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/RudreshRaj001/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/RudreshRaj001/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1086-divisor-game](https://github.com/RudreshRaj001/LeetCode/tree/master/1086-divisor-game) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/RudreshRaj001/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/RudreshRaj001/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2562-count-ways-to-build-good-strings](https://github.com/RudreshRaj001/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
@@ -981,6 +983,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [1086-divisor-game](https://github.com/RudreshRaj001/LeetCode/tree/master/1086-divisor-game) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RudreshRaj001/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Merge Sort
 |  |
@@ -1003,4 +1006,8 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/RudreshRaj001/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/RudreshRaj001/LeetCode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
