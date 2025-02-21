@@ -1,24 +1,26 @@
 class Solution {
     public int coinChange(int[] coins, int amount) {
-        int[][] dp = new int[coins.length][amount + 1];
+        int[] prev = new int[amount + 1];
         for (int a = 0; a < amount + 1; a++) {
             if (a % coins[0] == 0) {
-                dp[0][a] = a / coins[0];
+                prev[a] = a / coins[0];
             } else {
-                dp[0][a] = (int) 1e9;
+                prev[a] = (int) 1e9;
             }
         }
         for (int i = 1; i < coins.length; i++) {
+            int[] cur = new int[amount + 1];
             for (int a = 0; a < amount + 1; a++) {
                 int pick = (int) 1e9;
                 if (a >= coins[i]) {
-                    pick = 1 + dp[i][a - coins[i]];
+                    pick = 1 + cur[a - coins[i]];
                 }
-                int noPick = dp[i - 1][a];
-                dp[i][a] = Math.min(pick, noPick);
+                int noPick = prev[a];
+                cur[a] = Math.min(pick, noPick);
             }
+            prev = cur;
         }
-        int result = dp[coins.length - 1][amount];
+        int result = prev[amount];
         return (result >= (int) 1e9) ? -1 : result;
     }
 }
