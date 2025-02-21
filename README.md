@@ -193,6 +193,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RudreshRaj001/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/RudreshRaj001/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/RudreshRaj001/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3779-eat-pizzas](https://github.com/RudreshRaj001/LeetCode/tree/master/3779-eat-pizzas) |
 ## Hash Table
 |  |
 | ------- |
@@ -481,6 +482,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RudreshRaj001/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RudreshRaj001/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/RudreshRaj001/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3779-eat-pizzas](https://github.com/RudreshRaj001/LeetCode/tree/master/3779-eat-pizzas) |
 ## Enumeration
 |  |
 | ------- |
@@ -549,6 +551,7 @@
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/RudreshRaj001/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RudreshRaj001/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/RudreshRaj001/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [3779-eat-pizzas](https://github.com/RudreshRaj001/LeetCode/tree/master/3779-eat-pizzas) |
 ## Prefix Sum
 |  |
 | ------- |
