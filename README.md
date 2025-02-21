@@ -512,6 +512,7 @@
 | [0338-counting-bits](https://github.com/RudreshRaj001/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/RudreshRaj001/LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/RudreshRaj001/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/RudreshRaj001/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/0518-coin-change-ii) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/RudreshRaj001/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0747-min-cost-climbing-stairs](https://github.com/RudreshRaj001/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -677,6 +678,7 @@
 | [0392-is-subsequence](https://github.com/RudreshRaj001/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/RudreshRaj001/LeetCode/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/RudreshRaj001/LeetCode/tree/master/0500-keyboard-row) |
+| [0516-longest-palindromic-subsequence](https://github.com/RudreshRaj001/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0749-shortest-completing-word](https://github.com/RudreshRaj001/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/RudreshRaj001/LeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0812-rotate-string](https://github.com/RudreshRaj001/LeetCode/tree/master/0812-rotate-string) |
