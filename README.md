@@ -521,6 +521,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/RudreshRaj001/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/RudreshRaj001/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1086-divisor-game](https://github.com/RudreshRaj001/LeetCode/tree/master/1086-divisor-game) |
+| [1170-shortest-common-supersequence](https://github.com/RudreshRaj001/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/RudreshRaj001/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/RudreshRaj001/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/RudreshRaj001/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -686,6 +687,7 @@
 | [0952-word-subsets](https://github.com/RudreshRaj001/LeetCode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RudreshRaj001/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/RudreshRaj001/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1170-shortest-common-supersequence](https://github.com/RudreshRaj001/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1205-defanging-an-ip-address](https://github.com/RudreshRaj001/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/RudreshRaj001/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/RudreshRaj001/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
