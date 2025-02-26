@@ -7,12 +7,12 @@ class Solution {
         int ans = 0;
         for(int i = 0; i < n; i++){
             sum += nums[i];
+            max = Math.max(max, sum);
+            min = Math.min(min, sum);
+            
             int a = Math.abs(sum - min);
             int b = Math.abs(sum - max);
             ans = Math.max(ans,Math.max(a,b));
-
-            max = Math.max(max, sum);
-            min = Math.min(min, sum);
 
         }
         return ans;
