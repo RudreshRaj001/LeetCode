@@ -303,6 +303,7 @@
 | [1610-xor-operation-in-an-array](https://github.com/RudreshRaj001/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/RudreshRaj001/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/RudreshRaj001/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/RudreshRaj001/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/RudreshRaj001/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/RudreshRaj001/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/RudreshRaj001/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
