@@ -64,6 +64,7 @@
 | [0347-top-k-frequent-elements](https://github.com/RudreshRaj001/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/RudreshRaj001/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/RudreshRaj001/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/RudreshRaj001/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/RudreshRaj001/LeetCode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RudreshRaj001/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -224,6 +225,7 @@
 | [0347-top-k-frequent-elements](https://github.com/RudreshRaj001/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/RudreshRaj001/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/RudreshRaj001/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/RudreshRaj001/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RudreshRaj001/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RudreshRaj001/LeetCode/tree/master/0389-find-the-difference) |
@@ -285,6 +287,7 @@
 | [0326-power-of-three](https://github.com/RudreshRaj001/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RudreshRaj001/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/RudreshRaj001/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0380-insert-delete-getrandom-o1](https://github.com/RudreshRaj001/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/RudreshRaj001/LeetCode/tree/master/0441-arranging-coins) |
 | [0755-reach-a-number](https://github.com/RudreshRaj001/LeetCode/tree/master/0755-reach-a-number) |
 | [1013-fibonacci-number](https://github.com/RudreshRaj001/LeetCode/tree/master/1013-fibonacci-number) |
@@ -1043,6 +1046,7 @@
 ## Design
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/RudreshRaj001/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1477-product-of-the-last-k-numbers](https://github.com/RudreshRaj001/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
@@ -1056,4 +1060,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/RudreshRaj001/LeetCode/tree/master/0062-unique-paths) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/RudreshRaj001/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
