@@ -85,6 +85,7 @@
 | [0605-can-place-flowers](https://github.com/RudreshRaj001/LeetCode/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/RudreshRaj001/LeetCode/tree/master/0645-set-mismatch) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/RudreshRaj001/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0697-degree-of-an-array](https://github.com/RudreshRaj001/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/RudreshRaj001/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/RudreshRaj001/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0749-shortest-completing-word](https://github.com/RudreshRaj001/LeetCode/tree/master/0749-shortest-completing-word) |
@@ -245,6 +246,7 @@
 | [0575-distribute-candies](https://github.com/RudreshRaj001/LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/RudreshRaj001/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/RudreshRaj001/LeetCode/tree/master/0645-set-mismatch) |
+| [0697-degree-of-an-array](https://github.com/RudreshRaj001/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0749-shortest-completing-word](https://github.com/RudreshRaj001/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RudreshRaj001/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/RudreshRaj001/LeetCode/tree/master/0952-word-subsets) |
