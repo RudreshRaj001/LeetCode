@@ -585,6 +585,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/RudreshRaj001/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1502-construct-k-palindrome-strings](https://github.com/RudreshRaj001/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/RudreshRaj001/LeetCode/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RudreshRaj001/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RudreshRaj001/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1917-maximum-average-pass-ratio](https://github.com/RudreshRaj001/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RudreshRaj001/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -749,6 +750,7 @@
 | [1524-string-matching-in-an-array](https://github.com/RudreshRaj001/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RudreshRaj001/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RudreshRaj001/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RudreshRaj001/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/RudreshRaj001/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RudreshRaj001/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1894-merge-strings-alternately](https://github.com/RudreshRaj001/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -916,6 +918,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/RudreshRaj001/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RudreshRaj001/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/RudreshRaj001/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RudreshRaj001/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/RudreshRaj001/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RudreshRaj001/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/RudreshRaj001/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
