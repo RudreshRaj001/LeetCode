@@ -1,20 +1,18 @@
 class Solution {
     public int minAddToMakeValid(String s) {
-        int ans = 0;
-        int atleast = 0;
-
-        for(int i = 0; i < s.length(); i++){
-            if(s.charAt(i) == '('){
-                ans++;
-            }else{
-                if(ans > atleast){
-                    ans--;
-                }else{
-                    atleast++;
-                    ans++;
-                }
+       Stack<Character> stack = new Stack<Character>();
+       int cnt = 0;
+        for (char c : s.toCharArray()) {
+            if(c == '('){
+                stack.push(')');
+            }else if(c == '{'){
+                stack.push('}');
+            }else if(c == '['){
+                stack.push(']');
+            }else if (stack.isEmpty() || stack.pop() != c){
+			    cnt++;
             }
         }
-        return Math.abs(ans);
+        return stack.size() + cnt;
     }
 }
