@@ -288,6 +288,7 @@
 | [0050-powx-n](https://github.com/RudreshRaj001/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/RudreshRaj001/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/RudreshRaj001/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/RudreshRaj001/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/RudreshRaj001/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/RudreshRaj001/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/RudreshRaj001/LeetCode/tree/master/0189-rotate-array) |
@@ -619,6 +620,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/RudreshRaj001/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/RudreshRaj001/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/RudreshRaj001/LeetCode/tree/master/0190-reverse-bits) |
@@ -653,6 +655,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/RudreshRaj001/LeetCode/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/RudreshRaj001/LeetCode/tree/master/0289-game-of-life) |
 | [0566-reshape-the-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/RudreshRaj001/LeetCode/tree/master/0861-flipping-an-image) |
@@ -708,6 +711,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RudreshRaj001/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/RudreshRaj001/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/RudreshRaj001/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/RudreshRaj001/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/RudreshRaj001/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/RudreshRaj001/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/RudreshRaj001/LeetCode/tree/master/0205-isomorphic-strings) |
