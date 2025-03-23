@@ -5,12 +5,13 @@ class Solution {
             copy[i] = arr[i];
         }
         Arrays.sort(copy);
+
         HashMap<Integer, Integer> map = new HashMap<>();
-        int j = 1;
-        for (int i = 0; i < arr.length; i++) {
+        int rank = 1;
+        for (int i = 0; i < copy.length; i++) {
             if (!map.containsKey(copy[i])) {
-                map.put(copy[i], j);
-                j++;
+                map.put(copy[i], rank);
+                rank++;
             }
         }
 
