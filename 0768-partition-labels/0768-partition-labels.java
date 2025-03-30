@@ -1,24 +1,27 @@
 class Solution {
     public List<Integer> partitionLabels(String s) {
-        // idea: each character which appears in partition, 
-        // there last occurence should appear in that partition only
         List<Integer> ans = new ArrayList<>();
-        int st = 0;
-        int e = 0;
-        int[] arr = new int[26];
-        for(int i = 0; i < s.length(); i++){
-            arr[s.charAt(i) - 'a'] = i;
+        int end = 0;
+        int start = 0;
+        int[] li = new int[26];
+        for(int i = 0; i<s.length();i++){
+            li[s.charAt(i) - 'a'] = i;
         }
         int i = 0;
         while(i < s.length()){
             char ch = s.charAt(i);
-            e = Math.max(e, arr[s.charAt(i) - 'a']);
-            if(i == e){
-                ans.add(e - st + 1);
-                st = e + 1;
+            end = Math.max(end, li[ch - 'a']);
+            if(i == end){
+                ans.add(end - start + 1);
+                start = i + 1;
             }
             i++;
         }
+
+        if(start < s.length()){
+            ans.add(s.length() - start);
+        }
+
         return ans;
     }
 }
