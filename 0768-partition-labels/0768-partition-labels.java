@@ -3,10 +3,14 @@ class Solution {
         List<Integer> ans = new ArrayList<>();
         int end = 0;
         int start = 0;
+        int[] li = new int[26];
+        for(int i = 0; i<s.length();i++){
+            li[s.charAt(i) - 'a'] = i;
+        }
         int i = 0;
         while(i < s.length()){
             char ch = s.charAt(i);
-            end = Math.max(end, (s.lastIndexOf(ch, s.length() - 1)));
+            end = Math.max(end, li[ch - 'a']);
             if(i == end){
                 ans.add(end - start + 1);
                 start = i + 1;
