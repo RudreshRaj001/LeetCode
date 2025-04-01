@@ -168,6 +168,7 @@
 | [2179-most-beautiful-item-for-each-query](https://github.com/RudreshRaj001/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RudreshRaj001/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/RudreshRaj001/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2262-solving-questions-with-brainpower](https://github.com/RudreshRaj001/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RudreshRaj001/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/RudreshRaj001/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/RudreshRaj001/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -579,6 +580,7 @@
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/RudreshRaj001/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/RudreshRaj001/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2164-two-best-non-overlapping-events](https://github.com/RudreshRaj001/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
+| [2262-solving-questions-with-brainpower](https://github.com/RudreshRaj001/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2562-count-ways-to-build-good-strings](https://github.com/RudreshRaj001/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/RudreshRaj001/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/RudreshRaj001/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
