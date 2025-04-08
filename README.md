@@ -984,6 +984,7 @@
 | [0112-path-sum](https://github.com/RudreshRaj001/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/RudreshRaj001/LeetCode/tree/master/0322-coin-change) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0787-sliding-puzzle](https://github.com/RudreshRaj001/LeetCode/tree/master/0787-sliding-puzzle) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RudreshRaj001/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/RudreshRaj001/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -1035,6 +1036,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/RudreshRaj001/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RudreshRaj001/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1058,6 +1060,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/RudreshRaj001/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RudreshRaj001/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/RudreshRaj001/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1082,6 +1085,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/RudreshRaj001/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RudreshRaj001/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
