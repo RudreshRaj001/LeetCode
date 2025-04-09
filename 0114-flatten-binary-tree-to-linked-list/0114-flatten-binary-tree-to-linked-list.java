@@ -14,26 +14,13 @@
  * }
  */
 class Solution {
+    private TreeNode prev = null;
     public void flatten(TreeNode root) {
-        List<TreeNode> list = new ArrayList<>();
-        trav(root, list);
-
-        TreeNode t = root;
-        for (int i = 1; i < list.size(); i++) {
-            t.right = list.get(i);
-            t.left = null;
-            t = t.right;
-        }
-    }
-
-    private void trav(TreeNode root, List<TreeNode> list) {
-        if (root == null) {
-            return;
-        }
-        list.add(root);
-        trav(root.left, list);
-        trav(root.right, list);
-
-        return;
+        if(root == null) return;
+        flatten(root.right);
+        flatten(root.left);
+        root.right = prev;
+        root.left = null;
+        prev = root;
     }
 }
