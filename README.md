@@ -346,6 +346,7 @@
 | [2716-prime-subtraction-operation](https://github.com/RudreshRaj001/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/RudreshRaj001/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/RudreshRaj001/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/RudreshRaj001/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/RudreshRaj001/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RudreshRaj001/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/RudreshRaj001/LeetCode/tree/master/3567-convert-date-to-binary) |
@@ -593,6 +594,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/RudreshRaj001/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2562-count-ways-to-build-good-strings](https://github.com/RudreshRaj001/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/RudreshRaj001/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/RudreshRaj001/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/RudreshRaj001/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 ## Greedy
 |  |
@@ -807,6 +809,7 @@
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/RudreshRaj001/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/RudreshRaj001/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/RudreshRaj001/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/RudreshRaj001/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RudreshRaj001/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RudreshRaj001/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
