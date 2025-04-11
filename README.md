@@ -346,6 +346,7 @@
 | [2716-prime-subtraction-operation](https://github.com/RudreshRaj001/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/RudreshRaj001/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/RudreshRaj001/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
+| [2998-count-symmetric-integers](https://github.com/RudreshRaj001/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/RudreshRaj001/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/RudreshRaj001/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RudreshRaj001/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -545,6 +546,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/RudreshRaj001/LeetCode/tree/master/0204-count-primes) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RudreshRaj001/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2998-count-symmetric-integers](https://github.com/RudreshRaj001/LeetCode/tree/master/2998-count-symmetric-integers) |
 ## Interactive
 |  |
 | ------- |
