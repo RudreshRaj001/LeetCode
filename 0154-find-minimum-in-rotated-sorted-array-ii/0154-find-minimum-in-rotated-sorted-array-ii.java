@@ -1,6 +1,19 @@
 class Solution {
-    public int findMin(int[] arr) {
-        return arr[findPivotWithDuplicates(arr) + 1];
+    public int findMin(int[] nums) {
+        // return arr[findPivotWithDuplicates(arr) + 1];
+        int s = 0;
+        int e = nums.length - 1;
+        while(s < e){
+            int mid = s + (e - s) / 2;
+            if(nums[mid] > nums[e]){
+                s = mid + 1;
+            }else if (nums[mid] < nums[e]){
+                e = mid;
+            }else{
+                e--;
+            }
+        }
+        return nums[e];
     }
 
     static public int findPivotWithDuplicates(int[] arr) {
@@ -27,7 +40,6 @@ class Solution {
                     return end - 1;
                 }
                 end--;
-
             }
             // left side is sorted so the pivot should be in right
             else if (arr[start] < arr[mid] || (arr[start] == arr[mid] && arr[mid] > arr[end])) {
