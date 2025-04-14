@@ -8,7 +8,7 @@ class Solution {
             if (nums[index] > 0) {
                 nums[index] *= -1;
             } else {
-                List.add(Math.abs(nums[i]));
+                List.add(index + 1);
             }
         }
         return List;
