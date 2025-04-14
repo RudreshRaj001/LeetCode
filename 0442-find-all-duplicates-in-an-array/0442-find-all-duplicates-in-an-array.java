@@ -33,13 +33,21 @@ class Solution {
     // Best Method - Count Sort
     public List<Integer> findDuplicates(int[] nums) {
         int n = nums.length;
-        int[] count = new int[n + 1];
+        // int[] count = new int[n + 1];
         List<Integer> List = new ArrayList<>();
         for (int i = 0; i < n; i++) {
-            count[nums[i]]++;
-            if (count[nums[i]] > 1) {
-                List.add(nums[i]);
+            // count[nums[i]]++;
+            int index = Math.abs(nums[i]) - 1;
+            if (nums[index] > 0) {
+                nums[index] *= -1;
+            } else {
+                // return index + 1;
+                
+                List.add(Math.abs(nums[i]));
             }
+            // if (count[nums[i]] > 1) {
+                
+            // }
         }
         return List;
     }
