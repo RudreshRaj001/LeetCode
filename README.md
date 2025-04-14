@@ -138,6 +138,7 @@
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/RudreshRaj001/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1635-number-of-good-pairs](https://github.com/RudreshRaj001/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/RudreshRaj001/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1656-count-good-triplets](https://github.com/RudreshRaj001/LeetCode/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/RudreshRaj001/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/RudreshRaj001/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/RudreshRaj001/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -546,6 +547,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/RudreshRaj001/LeetCode/tree/master/0204-count-primes) |
+| [1656-count-good-triplets](https://github.com/RudreshRaj001/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RudreshRaj001/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/RudreshRaj001/LeetCode/tree/master/2998-count-symmetric-integers) |
 ## Interactive
