@@ -340,6 +340,7 @@
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/RudreshRaj001/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/RudreshRaj001/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RudreshRaj001/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/RudreshRaj001/LeetCode/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/RudreshRaj001/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/RudreshRaj001/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/RudreshRaj001/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -878,6 +879,7 @@
 | [0326-power-of-three](https://github.com/RudreshRaj001/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RudreshRaj001/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/RudreshRaj001/LeetCode/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/RudreshRaj001/LeetCode/tree/master/2050-count-good-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
