@@ -1,31 +1,21 @@
 class Solution {
-    public int[] findErrorNums(int[] a) {
-        int i = 0;
-        int n = a.length;
-        while (i < n) {
-            int correctIndex = a[i] - 1;
-            if (a[i] != a[correctIndex]) {
-                // swap
-                swap(a, i, correctIndex);
-            } else {
-                i++;
+    public int[] findErrorNums(int[] nums) {
+        HashSet<Integer> set = new HashSet<>();
+        int sum = 0;
+        int i = 1;
+        int legalsum = 0;
+        int dupli = -1;
+        for(int n : nums){
+            legalsum += i;
+            i++;
+            if(set.contains(n)){
+                dupli = n;
+            }else{
+                set.add(n);
+                sum += n;
             }
         }
-
-        // search for missing index
-        for (int j = 0; j < n; j++) {
-            if (a[j] != j + 1) {
-                return new int[]{a[j], j + 1};
-            }
-        }
-
-        // case 2
-        return new int[]{-1, -1};
-    }
-
-    void swap(int[] a, int i, int j) {
-        int temp = a[i];
-        a[i] = a[j];
-        a[j] = temp;
+        int missing = legalsum - sum;
+        return new int[]{dupli, missing};
     }
 }
