@@ -5,8 +5,7 @@ class Solution {
         int legalsum = 0;
         int dupli = -1;
         for(int n : nums){
-            legalsum += i - n;
-            i++;
+            legalsum += i++ - n;
             if(set.contains(n)){
                 dupli = n;
             }else{
