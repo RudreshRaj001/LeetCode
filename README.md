@@ -269,6 +269,7 @@
 | [0768-partition-labels](https://github.com/RudreshRaj001/LeetCode/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RudreshRaj001/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/RudreshRaj001/LeetCode/tree/master/0952-word-subsets) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/RudreshRaj001/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RudreshRaj001/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/RudreshRaj001/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -526,6 +527,7 @@
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RudreshRaj001/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0941-sort-array-by-parity](https://github.com/RudreshRaj001/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/RudreshRaj001/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RudreshRaj001/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RudreshRaj001/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -1011,6 +1013,7 @@
 | [0322-coin-change](https://github.com/RudreshRaj001/LeetCode/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0787-sliding-puzzle](https://github.com/RudreshRaj001/LeetCode/tree/master/0787-sliding-puzzle) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RudreshRaj001/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/RudreshRaj001/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -1074,6 +1077,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RudreshRaj001/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1103,6 +1107,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RudreshRaj001/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/RudreshRaj001/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -1140,6 +1145,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RudreshRaj001/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
