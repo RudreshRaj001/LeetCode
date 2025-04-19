@@ -256,6 +256,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/RudreshRaj001/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RudreshRaj001/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/RudreshRaj001/LeetCode/tree/master/0409-longest-palindrome) |
+| [0433-minimum-genetic-mutation](https://github.com/RudreshRaj001/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RudreshRaj001/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RudreshRaj001/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/RudreshRaj001/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -778,6 +779,7 @@
 | [0389-find-the-difference](https://github.com/RudreshRaj001/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/RudreshRaj001/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/RudreshRaj001/LeetCode/tree/master/0409-longest-palindrome) |
+| [0433-minimum-genetic-mutation](https://github.com/RudreshRaj001/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0500-keyboard-row](https://github.com/RudreshRaj001/LeetCode/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/RudreshRaj001/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/RudreshRaj001/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -1014,6 +1016,7 @@
 | [0226-invert-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/RudreshRaj001/LeetCode/tree/master/0322-coin-change) |
+| [0433-minimum-genetic-mutation](https://github.com/RudreshRaj001/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0787-sliding-puzzle](https://github.com/RudreshRaj001/LeetCode/tree/master/0787-sliding-puzzle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
