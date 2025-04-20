@@ -51,6 +51,7 @@
 | [0169-majority-element](https://github.com/RudreshRaj001/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RudreshRaj001/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/RudreshRaj001/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/RudreshRaj001/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/RudreshRaj001/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/RudreshRaj001/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/0213-house-robber-ii) |
@@ -372,6 +373,7 @@
 | [0063-unique-paths-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/RudreshRaj001/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/RudreshRaj001/LeetCode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/RudreshRaj001/LeetCode/tree/master/0289-game-of-life) |
 | [0566-reshape-the-matrix](https://github.com/RudreshRaj001/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0787-sliding-puzzle](https://github.com/RudreshRaj001/LeetCode/tree/master/0787-sliding-puzzle) |
@@ -1018,6 +1020,7 @@
 | [0112-path-sum](https://github.com/RudreshRaj001/LeetCode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/RudreshRaj001/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0127-word-ladder](https://github.com/RudreshRaj001/LeetCode/tree/master/0127-word-ladder) |
+| [0200-number-of-islands](https://github.com/RudreshRaj001/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/RudreshRaj001/LeetCode/tree/master/0322-coin-change) |
@@ -1117,6 +1120,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/RudreshRaj001/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RudreshRaj001/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RudreshRaj001/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/RudreshRaj001/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RudreshRaj001/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RudreshRaj001/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -1203,6 +1207,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RudreshRaj001/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/RudreshRaj001/LeetCode/tree/master/0200-number-of-islands) |
 | [1396-count-servers-that-communicate](https://github.com/RudreshRaj001/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RudreshRaj001/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Brainteaser
