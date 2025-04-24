@@ -5,19 +5,25 @@ class Solution {
             set.add(num);
         }
 
-        int distinct = set.size();
+        int totalDistinct = set.size();
 
         int n = nums.length;
         int count = 0;
-        for (int i = 0; i < n; i++) {
-            HashSet<Integer> currentSet = new HashSet<>();
-            for (int j = i; j < n; j++) {
-                currentSet.add(nums[j]);
-                if (currentSet.size() == distinct) {
-                    count++;
+        Map<Integer, Integer> freqMap = new HashMap<>();
+        int left = 0;
+ 
+         for (int right = 0; right < n; right++) {
+            freqMap.put(nums[right], freqMap.getOrDefault(nums[right], 0) + 1);
+            while (freqMap.size() == totalDistinct) {
+                count += (n - right);
+                freqMap.put(nums[left], freqMap.get(nums[left]) - 1);
+                if (freqMap.get(nums[left]) == 0) {
+                    freqMap.remove(nums[left]);
                 }
+                left++;
             }
-        }
+
+         }
         return count;
     }
 }
