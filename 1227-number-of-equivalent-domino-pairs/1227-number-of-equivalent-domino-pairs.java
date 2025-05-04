@@ -15,7 +15,7 @@ class Solution {
         for(Integer key : keys){
             // if(map.getKey(key) == 1) continue;
             Integer value = map.get(key);
-            if (value != null && value == 1) continue;
+            if ( value == 1) continue;
             int pairs = getPairs(map.get(key));
             ans += pairs;
         }
