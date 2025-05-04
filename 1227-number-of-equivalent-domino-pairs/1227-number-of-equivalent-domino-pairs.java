@@ -7,13 +7,10 @@ class Solution {
             int ones = dominoes[i][0] >= dominoes[i][1] ? dominoes[i][0] : dominoes[i][1];
             int key = tens * 10 + ones;
             map.put(key, map.getOrDefault(key, 0) + 1);
-            // int pairs = getPairs(map.get(key));
-            // ans = Math.max(ans, pairs);
         }
 
         Set<Integer> keys = map.keySet();
         for(Integer key : keys){
-            // if(map.getKey(key) == 1) continue;
             Integer value = map.get(key);
             if ( value == 1) continue;
             int pairs = getPairs(map.get(key));
