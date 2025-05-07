@@ -228,6 +228,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RudreshRaj001/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/RudreshRaj001/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/RudreshRaj001/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RudreshRaj001/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/RudreshRaj001/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3779-eat-pizzas](https://github.com/RudreshRaj001/LeetCode/tree/master/3779-eat-pizzas) |
 ## Hash Table
@@ -406,6 +407,7 @@
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RudreshRaj001/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2685-first-completely-painted-row-or-column](https://github.com/RudreshRaj001/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3188-find-champion-i](https://github.com/RudreshRaj001/LeetCode/tree/master/3188-find-champion-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RudreshRaj001/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -904,6 +906,7 @@
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/RudreshRaj001/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RudreshRaj001/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RudreshRaj001/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Recursion
 |  |
 | ------- |
@@ -1074,6 +1077,7 @@
 | [3189-find-champion-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/3189-find-champion-ii) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RudreshRaj001/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/RudreshRaj001/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RudreshRaj001/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -1089,6 +1093,7 @@
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RudreshRaj001/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RudreshRaj001/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RudreshRaj001/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Tree
 |  |
 | ------- |
