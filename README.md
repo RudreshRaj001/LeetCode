@@ -209,6 +209,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/RudreshRaj001/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/RudreshRaj001/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RudreshRaj001/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/RudreshRaj001/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3188-find-champion-i](https://github.com/RudreshRaj001/LeetCode/tree/master/3188-find-champion-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RudreshRaj001/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -668,6 +669,7 @@
 | [2681-put-marbles-in-bags](https://github.com/RudreshRaj001/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2716-prime-subtraction-operation](https://github.com/RudreshRaj001/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/RudreshRaj001/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RudreshRaj001/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3779-eat-pizzas](https://github.com/RudreshRaj001/LeetCode/tree/master/3779-eat-pizzas) |
 ## Prefix Sum
 |  |
