@@ -119,6 +119,7 @@
 | [1185-find-in-mountain-array](https://github.com/RudreshRaj001/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/RudreshRaj001/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/RudreshRaj001/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1293-three-consecutive-odds](https://github.com/RudreshRaj001/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/RudreshRaj001/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1364-tuple-with-same-product](https://github.com/RudreshRaj001/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1372-check-if-it-is-a-good-array](https://github.com/RudreshRaj001/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
