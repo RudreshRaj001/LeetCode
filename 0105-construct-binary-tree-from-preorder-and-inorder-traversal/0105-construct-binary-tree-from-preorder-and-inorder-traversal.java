@@ -19,26 +19,19 @@ class Solution {
         for(int i = 0; i < inorder.length; i++){
             map.put(inorder[i], i);
         }
-
         int[] index = {0};
         return helper(preorder, inorder, 0, preorder.length - 1, map, index);
     }
-    private TreeNode helper(int[] preorder, int[] inorder, int left, int right, HashMap<Integer, Integer> map,  int[] index){
-        if(left > right){
-            return null;
-        }
 
-        int current = preorder[index[0]];
+    private TreeNode helper(int[] preorder, int[] inorder,int l, int r, HashMap<Integer, Integer> map, int[] index){
+        if(l > r) return null;
+        if(index[0] >= preorder.length) return null;
+        int cur = preorder[index[0]];
+        TreeNode node = new TreeNode(cur);
+        int curInd = map.get(cur);
         index[0]++;
-
-        TreeNode node = new TreeNode(current);
-
-        if(left == right) return node;
-
-        int currentIndex = map.get(current);
-
-        node.left = helper(preorder, inorder, left, currentIndex - 1, map, index);
-        node.right = helper(preorder, inorder, currentIndex + 1, right, map, index);
+        node.left = helper(preorder, inorder, l, curInd - 1, map, index);
+        node.right = helper(preorder, inorder, curInd + 1, r, map, index);
 
         return node;
     }
