@@ -217,6 +217,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RudreshRaj001/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/RudreshRaj001/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RudreshRaj001/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3321-type-of-triangle](https://github.com/RudreshRaj001/LeetCode/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RudreshRaj001/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/RudreshRaj001/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -375,6 +376,7 @@
 | [2812-find-the-maximum-achievable-number](https://github.com/RudreshRaj001/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2998-count-symmetric-integers](https://github.com/RudreshRaj001/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/RudreshRaj001/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3321-type-of-triangle](https://github.com/RudreshRaj001/LeetCode/tree/master/3321-type-of-triangle) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/RudreshRaj001/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RudreshRaj001/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/RudreshRaj001/LeetCode/tree/master/3567-convert-date-to-binary) |
@@ -577,6 +579,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RudreshRaj001/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RudreshRaj001/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/RudreshRaj001/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3321-type-of-triangle](https://github.com/RudreshRaj001/LeetCode/tree/master/3321-type-of-triangle) |
 | [3779-eat-pizzas](https://github.com/RudreshRaj001/LeetCode/tree/master/3779-eat-pizzas) |
 ## Enumeration
 |  |
