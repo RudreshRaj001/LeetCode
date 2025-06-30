@@ -5,7 +5,7 @@ class Solution {
         int j = 0;
         int ans = 0;
         while(i < nums.length && j < nums.length){
-            int min = nums[i];
+            int min = nums[i]; // min
             while(j < nums.length && nums[j] - min <= 1){
                 j++;
             }
